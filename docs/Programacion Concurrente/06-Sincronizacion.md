@@ -19,7 +19,7 @@
 	- Si contador $> 0$ -> Recurso disponible.
 	- Si contador $\leq 0$  -> Recurso no disponible.
 	- El valor del semáforo representa la cantidad de recursos disponibles.
-	- Si el valor es 0 o 1, se llaman semáforos binarios y se comportan igual que los [[Programacion Concurrente/05-Locks|Locks]] de escritura(También conocidos como `Mutex`).
+	- Si el valor es 0 o 1, se llaman semáforos binarios y se comportan igual que los [[Programacion Concurrente/05-Locks]] de escritura(También conocidos como `Mutex`).
 - `p (wait)`: Resta 1 al contador.
 - `v (signal)`: Suma 1 al contador.
 
