@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "9ad509a4ee57b280",
+    "type": "split",
+    "children": [
+      {
+        "id": "00bd55a63abfe45b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4301fc6fdcdfa9cd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7553af0c39b1988",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf3c5954ab55742f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "141924f75d28cc6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "227aae19fd52c352",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "78832c940eb03950",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "dd005499c6196eb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0ac86b420bd3710",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8710909bc0827e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Azure/AZ-900/AZ-900.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for AZ-900"
+            }
+          },
+          {
+            "id": "3df7a798bfa1928a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Azure/AZ-900/AZ-900.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from AZ-900"
+            }
+          },
+          {
+            "id": "4a3238d0ce8a15ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "447bf2bacb5300dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ingeniería de Software I/09-Modelo de Vistas de Arquitectura 4 + 1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 09-Modelo de Vistas de Arquitectura 4 + 1"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 415.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4301fc6fdcdfa9cd",
+  "lastOpenFiles": [
+    "Pasted image 20241108085257.png",
+    "Programación Concurrente/10-Concurrencia Distribuida.md",
+    "Programación Concurrente/Programación Concurrente.md",
+    "Programación Concurrente/Repaso Final.md",
+    "Programación Concurrente/13-Ambientes Distribuidos.md",
+    "Programación Concurrente/09-Redes de Petri.md",
+    "Programación Concurrente/06-Sincronización.md",
+    "Programación Concurrente/img concu/Pasted image 20241216090535.png",
+    "Programación Concurrente/05-Locks.md",
+    "Programación Concurrente/07-Canales.md",
+    "Programación Concurrente/04-Corrección.md",
+    "Programación Concurrente/03-Programación Asincrónica.md",
+    "Programación Concurrente/02-Modelo Fork Join.md",
+    "Programación Concurrente/01-Introducción.md",
+    "AWS/AWS Solutions Architect Associate Certification SAA-C03/02-EC2 Instance Storage/01-EBS.md",
+    "Programación Concurrente/12-Transacciones.md",
+    "Programación Concurrente/img concu/Pasted image 20241213144708.png",
+    "Programación Concurrente/img concu/Pasted image 20241213143114.png",
+    "Programación Concurrente/img concu/Pasted image 20241213141922.png",
+    "Programación Concurrente/08-Modelo de Actores.md",
+    "Programación Concurrente/img concu/Pasted image 20241213083318.png",
+    "Programación Concurrente/img concu/Pasted image 20241212090026.png",
+    "Programación Concurrente/img concu/Pasted image 20241212084502.png",
+    "Ingeniería de Software I/19-Patrones de Diseño.md",
+    "Ingeniería de Software I/06-Product Discovery.md",
+    "Ingeniería de Software I/07-Historias de Usuario.md",
+    "Ingeniería de Software I/14-REST-Security.md",
+    "Ingeniería de Software I/15-Kata.md",
+    "Ingeniería de Software I/16-Refactoring.md",
+    "Ingeniería de Software I/17-Docker.md",
+    "Ingeniería de Software I/18-Git.md",
+    "Ingeniería de Software I/13-REST.md",
+    "Ingeniería de Software I/12-Patrones de Arquitectura.md",
+    "Ingeniería de Software I/Untitled.canvas",
+    "BMO/Profiles",
+    "BMO",
+    "Excalidraw",
+    "hola.canvas",
+    "Ingeniería de Software I/img is1/Pasted image 20241210160024.png",
+    "Ingeniería de Software I/img is1/Pasted image 20241210131509.png",
+    "Ingeniería de Software I/img is1/Pasted image 20241210131930.png",
+    "AWS/Slides",
+    "AWS/Slides/AWSCertifiedMLSlides.pdf",
+    "Base de Datos/img",
+    "Base de Datos",
+    "AWS/AWS Machine Learning Specialty MLS-C01/02-Exploratory Data Analysis",
+    "AWS/AWS Machine Learning Specialty MLS-C01/01-Data Engineering/Untitled",
+    "AWS/AWS Machine Learning Specialty MLS-C01/img",
+    "MongoDB/Untitled.canvas"
+  ]
+}
