@@ -33,7 +33,7 @@
 
 
 !!! important Amazon S3 Static Website Hosting
-> S3 can host static websites and have them accesible on the [Internet](Redes/Chapter%201/01-Internet.md).
+> S3 can host static websites and have them accesible on the [Internet](Redes/Chapter 1/01-Internet.md).
 > - If you get a 403 Forbidden error, make sure the Bucket Policy allows public reads.
 
 
@@ -46,7 +46,7 @@
 	- Easy roll back to previous version.
 - Any file that is not versioned prior to enabling versioning will have version "null".
 - Suspending versioning does not delete the previous versions.
-![](AWS/AWS%20Solutions%20Architect%20Associate%20Certification%20SAA-C03/img/Pasted%20image%2020241203101410.png)
+![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241203101410.png)
 
 ---
 
@@ -76,9 +76,9 @@
 	- How often you plan to retrieve your data.
 	- How available you need your data to be.
 
-![](AWS/AWS%20Solutions%20Architect%20Associate%20Certification%20SAA-C03/img/Pasted%20image%2020241203102402.png)
+![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241203102402.png)
 
-![](AWS/AWS%20Solutions%20Architect%20Associate%20Certification%20SAA-C03/img/Pasted%20image%2020241203102428.png)
+![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241203102428.png)
 ### S3 Standard
 - Designed for **frequently accessed data**.
 - Stores data in a minimum of three Availability Zones.

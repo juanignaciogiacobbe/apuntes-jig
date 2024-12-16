@@ -4,4 +4,4 @@
 > - A DataSync Agent is deployed as a VM and connects to your internal storage.
 > - Encryption and Data validation.
 
-![](AWS/AWS%20Machine%20Learning%20Specialty%20MLS-C01/img/Pasted%20image%2020241204120836.png)
+![](AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204120836.png)

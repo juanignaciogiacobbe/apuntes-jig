@@ -2,7 +2,7 @@
 !!! important Load Balancers
 > Servers that forward traffic to multiple servers downstream.
 
-![](AWS/AWS%20Solutions%20Architect%20Associate%20Certification%20SAA-C03/img/Pasted%20image%2020241202103316.png)
+![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241202103316.png)
 
 
 !!! note Why use a Load Balancer?
@@ -21,17 +21,17 @@
 > - Is done on a port and a route(`/health` is common).
 > - If the response is not 200(OK), then the instance is unhealthy.
 
-![](AWS/AWS%20Solutions%20Architect%20Associate%20Certification%20SAA-C03/img/Pasted%20image%2020241202104321.png)
+![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241202104321.png)
 
 
 ---
 
 !!! important Directing Traffic with Elastic Load Balancing
-> Automatically distributes incoming application traffic across multiple resources, such as [Amazon Elastic Compute Cloud(EC2)](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/01-Amazon%20Elastic%20Compute%20Cloud(EC2).md).
+> Automatically distributes incoming application traffic across multiple resources, such as [Amazon Elastic Compute Cloud(EC2)](AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/01-Amazon Elastic Compute Cloud(EC2).md).
 > - A load balancer acts as a single point of contact for all incoming web traffic to your Auto Scaling group.
 > - As you add or remove Amazon EC2 instances in response to the amount of incoming traffic, these requests route to the load balancer first.
 
-> [!PDF|yellow] [AWS Certified Solutions Architect Slides v39, p.128](AWS/Slides/AWS%20Certified%20Solutions%20Architect%20Slides%20v39.pdf#page=128&selection=8,0,8,29&color=yellow)
+> [!PDF|yellow] [AWS Certified Solutions Architect Slides v39, p.128](AWS/Slides/AWS Certified Solutions Architect Slides v39.pdf#page=128&selection=8,0,8,29&color=yellow)
 > > Types of load balancer on AWS
 > 
 > 
@@ -55,4 +55,4 @@
 > - Works for Classic, Application and Network Load Balancers.
 > - Use Case: Make sure the User doesn't lose his session data.
 
-![](AWS/AWS%20Solutions%20Architect%20Associate%20Certification%20SAA-C03/img/Pasted%20image%2020241202122300.png)
+![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241202122300.png)

@@ -1,10 +1,10 @@
 
 !!! important Domain Name System(DNS)
 > - Translates the human friendly hostnames into the machine IP addresses.
-> - Is the backbone of the [Internet](Redes/Chapter%201/01-Internet.md).
+> - Is the backbone of the [Internet](Redes/Chapter 1/01-Internet.md).
 > - It uses hierarchical naming structure.
 
-![](AWS/AWS%20Solutions%20Architect%20Associate%20Certification%20SAA-C03/img/Pasted%20image%2020241202133240.png)
+![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241202133240.png)
 
 !!! warning DNS Terminologies
 - Domain Registrar: Amazon Route 53, GoDaddy, ...
@@ -14,7 +14,7 @@
 - Top Level Domain(TLD): `.com`, `.us`, ...
 - Second Level Domain(SLD): `amazon.com`, `google.com`, ...
 
-![](AWS/AWS%20Solutions%20Architect%20Associate%20Certification%20SAA-C03/img/Pasted%20image%2020241202133131.png)
+![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241202133131.png)
 
 
 
@@ -24,7 +24,7 @@
 > - Ability to check the health of your resources.
 > - **It gives developers and businesses a reliable way to route end users to internet applications hosted in AWS**.
 
-![](AWS/AWS%20Solutions%20Architect%20Associate%20Certification%20SAA-C03/img/Pasted%20image%2020241202133844.png)
+![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241202133844.png)
 
 ## How Amazon Route 53 and Amazon CloudFront deliver content
 

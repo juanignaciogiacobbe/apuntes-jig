@@ -6,7 +6,7 @@
 > A cluster of data centers -> Most AWS services are Region-Scoped.
 > - **Each Region can be connected to each other Region** through a high speed fiber network, controlled by AWS, a truly global operation from corner to corner if you need it to be.
 > - **Each Region is isolated from every other Region**: absolutely no data goes in or out of your environment in that Region without you explicitly granting permission for that data to be moved.
-> - **Each Region is composed by a group of data centers**(is a physical location). Each one of these groups are called [Availability Zones](AWS/Cloud%20Practitioner%20(CLF-C02)/03-Infrastructure%20and%20Realiability/02-Availability%20Zones.md).
+> - **Each Region is composed by a group of data centers**(is a physical location). Each one of these groups are called [Availability Zones](AWS/Cloud Practitioner (CLF-C02)/03-Infrastructure and Realiability/02-Availability Zones.md).
 
 ![](../img/regions.png)
 

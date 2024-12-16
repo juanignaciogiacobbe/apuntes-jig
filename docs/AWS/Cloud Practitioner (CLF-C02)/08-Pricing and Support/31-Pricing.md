@@ -13,7 +13,7 @@
 
 ## AWS Pricing Examples
 
-### [06-AWS Lambda](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/06-AWS%20Lambda.md)
+### [06-AWS Lambda](AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/06-AWS Lambda.md)
 - You are charged based on the number of requests for your functions and the time that it takes for them to run.
 - AWS Lambda allows 1 million free requests and up to 3.2 million seconds of compute time per month.
 - A request is counted each time it starts execution. Test invokes in the console count as well.

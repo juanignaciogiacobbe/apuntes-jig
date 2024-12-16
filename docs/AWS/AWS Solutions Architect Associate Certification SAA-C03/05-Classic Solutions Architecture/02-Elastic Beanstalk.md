@@ -15,5 +15,5 @@
 	- Tiers: Web Server Environment Tier & Worker Environment TIer.
 	- You can create multiple environments(dev, test, prod, ...).
 
-![](AWS/AWS%20Solutions%20Architect%20Associate%20Certification%20SAA-C03/img/Pasted%20image%2020241203092710.png)
-![](AWS/AWS%20Solutions%20Architect%20Associate%20Certification%20SAA-C03/img/Pasted%20image%2020241203092923.png)
+![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241203092710.png)
+![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241203092923.png)

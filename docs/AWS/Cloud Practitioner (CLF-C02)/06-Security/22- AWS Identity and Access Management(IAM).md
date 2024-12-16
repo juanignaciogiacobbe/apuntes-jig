@@ -20,7 +20,7 @@
 ## IAM users
 - An **IAM user** is an identity that you create in AWS.
 - **It represents the person or application that interacts with AWS services and resources**. It consists of a name and credentials.
-- By default, when you create a new IAM user in AWS, it has no permissions associated with it. To allow the IAM user to perform specific actions in AWS, such as launching an [01-Amazon Elastic Compute Cloud(EC2)](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/01-Amazon%20Elastic%20Compute%20Cloud(EC2).md) instance or creating an [01-Amazon Simple Storage Service(S3)](AWS/Cloud%20Practitioner%20(CLF-C02)/05-Storage%20and%20Databases/01-Amazon%20Simple%20Storage%20Service(S3).md) bucket, you must grant the IAM user the necessary permissions.
+- By default, when you create a new IAM user in AWS, it has no permissions associated with it. To allow the IAM user to perform specific actions in AWS, such as launching an [01-Amazon Elastic Compute Cloud(EC2)](AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/01-Amazon Elastic Compute Cloud(EC2).md) instance or creating an [01-Amazon Simple Storage Service(S3)](AWS/Cloud Practitioner (CLF-C02)/05-Storage and Databases/01-Amazon Simple Storage Service(S3).md) bucket, you must grant the IAM user the necessary permissions.
 
 ### Best practice
 - **You create individual IAM users for each person who needs to access AWS**.  
