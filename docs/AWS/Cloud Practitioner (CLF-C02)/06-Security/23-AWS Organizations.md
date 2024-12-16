@@ -9,8 +9,8 @@
 - **When you apply a policy to an OU, all the accounts in the OU automatically inherit the permissions specified in the policy**.
 - **By organizing separate accounts into OUs, you can more easily isolate workloads or applications that have specific security requirements.**
 
-	![[../img/organizations1.png]]
+	![organizations1](../img/organizations1.png)
 
-	![[../img/organizations2.png]]
+	![organizations2](../img/organizations2.png)
 
-	![[../img/organizations3.png]]
+	![organizations3](../img/organizations3.png)

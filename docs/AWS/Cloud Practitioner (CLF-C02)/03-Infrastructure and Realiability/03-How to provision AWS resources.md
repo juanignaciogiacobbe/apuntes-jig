@@ -6,21 +6,21 @@
 - You can also use the AWS Console mobile application to perform tasks such as monitoring resources, viewing alarms, and accessing billing information. 
 - Multiple identities can stay logged into the AWS Console mobile app at the same time.
 
-	![[../img/aws_management_console.png]]
+	![aws_management_console](../img/aws_management_console.png)
 
 ## AWS Command Line Interface
 - **Control multiple AWS services directly from the command line within one tool**. 
 - Available for users on Windows, macOS, and Linux.
 - By using AWS CLI, **you can automate the actions that your services and applications perform through scripts**.
 
-	![[../img/aws_command_line_interface.png]]
+	![aws_command_line_interface](../img/aws_command_line_interface.png)
 
 ## Software Development Kits(SDKs)
 - **Use AWS services through an API designed for your programming language or platform**. 
 - **SDKs enable you to use AWS services with your existing applications or create entirely new applications that will run on AWS**.
 - AWS provides documentation and sample code for each supported programming language. Supported programming languages include C++, Java, .NET, and more.
 
-	![[../img/sdks.png]]
+	![sdks](../img/sdks.png)
 
 
 ## AWS CloudFormation

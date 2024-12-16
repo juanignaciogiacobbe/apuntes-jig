@@ -1,5 +1,5 @@
 
-> [[AWS/Cloud Practitioner (CLF-C02|!WARNING]]/05-Storage%20and%20Databases/01-Amazon%20Simple%20Storage%20Service(S3).md) Security
+!!! warning [AmazonS3](AWS/Cloud Practitioner (CLF-C02)/05-Storage and Databases/01-Amazon Simple Storage Service(S3).md) Security
 - User-Based:
 	- IAM Policies: Which API calls should be allowed for a specific user from IAM.
 - Resource-Based:
@@ -26,4 +26,4 @@
 - Force objects to be encrypted at upload.
 - Grant access to another account(Cross account).
 
-![[AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241203100557.png]]
+![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241203100557.png)

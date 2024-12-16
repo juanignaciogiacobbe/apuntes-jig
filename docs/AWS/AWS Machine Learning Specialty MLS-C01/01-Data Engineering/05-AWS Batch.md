@@ -1,7 +1,7 @@
 
 !!! important AWS Batch
-> - Run batch jobs as [[Ingeniería de Software I/17-Docker.md|Docker]] images.
-> - Dynamic provisioning of the instances([[AWS/Cloud Practitioner (CLF-C02|EC2]]/02-Compute%20in%20the%20Cloud/01-Amazon%20Elastic%20Compute%20Cloud(EC2).md) & Spot Instances).
+> - Run batch jobs as [Docker](Ingeniería de Software I/17-Docker.md) images.
+> - Dynamic provisioning of the instances([EC2](AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/01-Amazon Elastic Compute Cloud(EC2).md) & Spot Instances).
 > - Optimal quantity and type based on volume and requirements.
 > - No need to manage clusters, fully serverless.
 > - You just pay for the underlying EC2 instances.

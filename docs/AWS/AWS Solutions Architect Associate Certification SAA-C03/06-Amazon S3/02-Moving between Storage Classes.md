@@ -1,11 +1,11 @@
 
-> [[AWS/Cloud Practitioner (CLF-C02|!IMPORTANT]]/05-Storage%20and%20Databases/01-Amazon%20Simple%20Storage%20Service(S3).md): Moving between Storage Classes
+!!! important [Amazon S3](AWS/Cloud Practitioner (CLF-C02)/05-Storage and Databases/01-Amazon Simple Storage Service(S3).md): Moving between Storage Classes
 > - You can transition object between storage classes.
 > 	- For infrequently accessed object, move them to Standard IA.
 > 	- For archive objects that you don't need fast access to, move them to Glacier or Glacier Deep Archive.
 > - Moving objects can be automated using a Lifecycle Rules.
 
-![[AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241203103038.png]]
+![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241203103038.png)
 
 
 

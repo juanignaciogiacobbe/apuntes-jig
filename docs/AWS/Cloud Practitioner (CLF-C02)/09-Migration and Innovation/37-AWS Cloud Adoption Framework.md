@@ -5,7 +5,7 @@
 - Organizes guidance into six areas of focus, called Perspectives. Each Perspective addresses distinct responsibilities. The planning process helps the right people across the organization prepare for the changes ahead.
 - Each perspective comprises a set of capabilities that functionally related stakeholders own or manage in the cloud transformation journey.
 
-	![[../img/caf_perspectives.png]]
+	![](../img/caf_perspectives.png)
 
 ## Business Perspective
 - Helps **ensure that your cloud investments accelerate your digital transformation abitions and business outcomes**.

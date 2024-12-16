@@ -4,7 +4,7 @@
 - An audit or inspection will ensure that the company has met those standards.
 - The following are some of the compliance reports and regulations that you can find within AWS Artifact. Each report includes a description of its contents and the reporting period for which the document is valid.
 
-	![[../img/compliance_reports.png]]
+	![compliance_reports](../img/compliance_reports.png)
 
 - AWS Artifact provides access to AWS security and compliance documents, such as AWS ISO certifications, Payment Card Industry (PCI) reports, and Service Organization Control (SOC) reports.
 - AWS Artifact is a service that provides on-demand access to AWS security and compliance reports and select online agreements. AWS Artifact consists of two main sections: AWS Artifact Agreements and AWS Artifact Reports.

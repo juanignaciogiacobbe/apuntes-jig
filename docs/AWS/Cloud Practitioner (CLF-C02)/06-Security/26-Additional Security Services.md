@@ -13,7 +13,7 @@
 - You configure the web ACL to allow all requests except those from the IP addresses that you have specified.
 - When a request comes into AWS WAF, it checks against the list of rules that you have configured in the web ACL. If a request does not come from one of the blocked IP addresses, it allows access to the application.
 
-	![[../img/aws_waf1.png]]
+	![aws_waf1](../img/aws_waf1.png)
 
-	![[../img/aws_waf2.png]]
+	![aws_waf2](../img/aws_waf2.png)
 	- If a request comes from one of the blocked IP addresses that you have specified in the web ACL, AWS WAF denies access.

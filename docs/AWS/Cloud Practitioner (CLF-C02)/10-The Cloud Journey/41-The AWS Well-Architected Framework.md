@@ -2,7 +2,7 @@
 - Helps cloud architects build secure, high-performing, resilient, and efficient infrastructure for a variety of applications and workloads.
 - It provides a way for you to consistently measure your architecture against best practices and design principles and identify areas for improvement.
 
-	![[../img/the_aws_well_structured_framework.png]]
+	![the_aws_well_structured_framework](../img/the_aws_well_structured_framework.png)
 
 - Operational Excellence: Is the ability to run and monitor systems to deliver business value and to continually improve supporting processes and procedures. Design principles for operational excellence in the cloud include performing operations as code, annotating documentation, anticipating failure, and frequently making small, reversible changes.
 - Security: The **Security** pillar is the ability to protect information, systems, and assets while delivering business value through risk assessments and mitigation strategies. Good practices:

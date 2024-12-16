@@ -4,8 +4,8 @@
 - On your monthly bill, you can review itemized charges incurred by each account. This enables you to have greater transparency into your organization’s accounts while still maintaining the convenience of receiving a single monthly bill.
 - Another benefit of consolidated billing is the ability to share bulk discount pricing, Savings Plans, and Reserved Instances across the accounts in your organization. For instance, one account might not have enough monthly usage to qualify for discount pricing. However, when multiple accounts are combined, their aggregated usage may result in a benefit that applies across all accounts in the organization.
 
-	![[../img/consolidated_billing1.png]]
+	![consolidated_billing1](../img/consolidated_billing1.png)
 
-	![[../img/consolidated_billing2.png]]
+	![consolidated_billing2](../img/consolidated_billing2.png)
 
-	![[../img/consolidated_billing3.png]]
+	![consolidated_billing3](../img/consolidated_billing3.png)

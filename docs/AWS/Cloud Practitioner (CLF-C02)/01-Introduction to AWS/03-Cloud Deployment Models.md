@@ -11,7 +11,7 @@
 > Deploy resources by using virtualization and resource management tools.
 > - It has none of the cloud advantages, but it offer more security of your data as it is not traversing any public space and isn't shared with other organizations with virtualization. 
 
-![[../img/private.png]]
+![](../img/private.png)
 
 
 
@@ -20,7 +20,7 @@
 > - Run all parts of the application in the cloud.
 > - Migrate existing applications to the cloud.
 
-![[../img/public.png]]
+![](../img/public.png)
 
 
 !!! important Hybrid Cloud 
@@ -28,4 +28,4 @@
 > - Integrate cloud-based resources with legacy IT applications.
 > - Typically have their sensitive data stored locally and securely connect to the public cloud or AWS using services like VPN and Direct Connect.
 
-![[../img/hybrid.png]]
+![](../img/hybrid.png)
