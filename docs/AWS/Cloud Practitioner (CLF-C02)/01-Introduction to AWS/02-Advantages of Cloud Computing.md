@@ -1,6 +1,6 @@
 # Advantages of Cloud Computing
 
-![](../img/benefits.png)
+![[../img/benefits.png]]
 
 ## Trade upfront expense for variable expense
 - You pay for what you use instead of making huge upfront investments.

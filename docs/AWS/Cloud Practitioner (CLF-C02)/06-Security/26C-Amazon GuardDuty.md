@@ -3,10 +3,10 @@
 - Expose threats quickly using anomaly detection, machine learning (ML), behavioral modeling, and threat intelligence feeds from AWS and leading third parties.
 - Accurately detect and respond to threats earlier, helping you detect them before they escalate to broader business-impacting events.
 - Scale threat detection across all accounts in your AWS environment without requiring manual effort or third-party tooling.
-- Safeguard your accounts, data, and resources across various AWS compute types, spanning [01-Amazon Elastic Compute Cloud(EC2)](AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/01-Amazon Elastic Compute Cloud(EC2).md), [04-Serverless Computing](AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/04-Serverless Computing.md) workloads, and container workloads—including those on AWS Fargate.
+- Safeguard your accounts, data, and resources across various AWS compute types, spanning [[EC2)](AWS/Cloud Practitioner (CLF-C02|01-Amazon Elastic Compute Cloud(EC2)]]/02-Compute%20in%20the%20Cloud/01-Amazon%20Elastic%20Compute%20Cloud(EC2).md), [[AWS/Cloud Practitioner (CLF-C02|04-Serverless Computing]]/02-Compute%20in%20the%20Cloud/04-Serverless%20Computing.md) workloads, and container workloads—including those on AWS Fargate.
 - Provides intelligent threat detection for your AWS infrastructure and resources. It identifies threats by continuously monitoring the network activity and account behavior within your AWS environment.
 
-	![guardDuty](../img/guardDuty.png)
+	![[../img/guardDuty.png]]
 
 - After you have enabled GuardDuty for your AWS account, GuardDuty begins monitoring your network and account activity. 
 - You do not have to deploy or manage any additional security software. GuardDuty then continuously analyzes data from multiple AWS sources, including VPC Flow Logs and DNS logs.

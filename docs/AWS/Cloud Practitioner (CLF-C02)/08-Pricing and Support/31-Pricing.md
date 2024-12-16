@@ -7,13 +7,13 @@
 - Lets you explore AWS services and create an estimate for the cost of your use cases on AWS. You can organize your AWS estimates by groups that you define. A group can reflect how your company is organized, such as providing estimates by cost center.
 - When you have created an estimate, you can save it and generate a link to share it with others.
 
-	![aws-pricing-calculator](../img/aws-pricing-calculator.png)
+	![[../img/aws-pricing-calculator.png]]
 
 	- Suppose that your company is interested in using Amazon EC2. However, you are not yet sure which AWS Region or instance type would be the most cost-efficient for your use case. In the AWS Pricing Calculator, you can enter details, such as the kind of operating system you need, memory requirements, and input/output (I/O) requirements. By using the AWS Pricing Calculator, you can review an estimated comparison of different EC2 instance types across AWS Regions.
 
 ## AWS Pricing Examples
 
-### [06-AWS Lambda](AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/06-AWS Lambda.md)
+### [[AWS/Cloud Practitioner (CLF-C02|06-AWS Lambda]]/02-Compute%20in%20the%20Cloud/06-AWS%20Lambda.md)
 - You are charged based on the number of requests for your functions and the time that it takes for them to run.
 - AWS Lambda allows 1 million free requests and up to 3.2 million seconds of compute time per month.
 - A request is counted each time it starts execution. Test invokes in the console count as well.
@@ -25,7 +25,7 @@
 - In this example, all the AWS Lambda usage occurred in the Northern Virginia Region. The bill lists separate charges for the number of requests for functions and their duration. 
 - Both the number of requests and the total duration of requests in this example are under the thresholds in the AWS Free Tier, so the account owner would not have to pay for any AWS Lambda usage in this month.
 
-	![aws_lambda_pricing_example](../img/aws_lambda_pricing_example.png)
+	![[../img/aws_lambda_pricing_example.png]]
 
 ### [[AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/01-Amazon Elastic Compute Cloud(EC2)]]
 - You pay for only the compute time that you use while your instances are running.
@@ -39,7 +39,7 @@
 	- The length of time that Elastic Load Balancing (ELB) has been used
 - In this example, all the usage amounts are under the thresholds in the AWS Free Tier, so the account owner would not have to pay for any Amazon EC2 usage in this month.
 
-	![ec2_pricing_example](../img/ec2_pricing_example.png)
+	![[../img/ec2_pricing_example.png]]
 
 ### [[AWS/Cloud Practitioner (CLF-C02)/05-Storage and Databases/01-Amazon Simple Storage Service(S3)]]
 - For Amazon S3 pricing, consider the following cost components:
@@ -56,7 +56,7 @@
 
 - All the usage for Amazon S3 in this example is under the AWS Free Tier limits, so the account owner would not have to pay for any Amazon S3 usage in this month.
 
-	![aws_s3_pricing_example](../img/aws_s3_pricing_example.png)
+	![[../img/aws_s3_pricing_example.png]]
 
 ## AWS Billing and Cost Management Dashboard
 - Use it to pay your AWS bill, monitor your usage, and analyze and control your costs.

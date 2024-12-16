@@ -2,7 +2,7 @@
 - Is a collection of physical devices that help to physically transport up to exabytes of data into and out of AWS.
 - Is composed of AWS Snowcone, AWS Snowball and AWS Snowmobile.
 
-	![aws_snow_family](../img/aws_snow_family.png)
+	![[../img/aws_snow_family.png]]
 
 	- These devices offer different capacity points, and most include built-in computing capabilities. AWS owns and manages the Snow Family devices and integrates with AWS security, monitoring, storage management, and computing capabilities.
 

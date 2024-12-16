@@ -6,21 +6,21 @@
 > 	- Pay only for the compute time you use when an instance is running, not when it is stopped or terminated.
 > 	- Save costs by paying only for server capacity that you need or want.
 > 	- Deploy your applications directly to EC2 instances.
-> 	- Use a preconfigured template called an  [Amazon Machine Image(AMI)](AWS/AWS Solutions Architect Associate Certification SAA-C03/02-EC2 Instance Storage/02-AMI.md) to launch your instance.
+> 	- Use a preconfigured template called an  [[AMI)](AWS/AWS Solutions Architect Associate Certification SAA-C03/02-EC2 Instance Storage/02-AMI.md|Amazon Machine Image(AMI)]] to launch your instance.
 > 	- Highly flexible, cost-effective and quick when you compare it to running your own servers on premises in a data center that you own.
 
 
 !!! note Multitenancy
 > Sharing underlying hardware between Virtual Machines. EC2 runs on top of physical host machines managed by AWS using virtualization technology.
 
-![EC2_example](../img/EC2_example.png)
+![[../img/EC2_example.png]]
 
 1. **Launch**: Begin by selecting a template with basic configurations for your instance(operating system, application server, or applications). You also select the instance type, which is the specific hardware configuration of your instance. You also specify security settings to control the network traffic that can flow into and out of your instance.
 2. **Connect**: Your programs and applications have multiple different methods to connect directly to the instance and exchange data. Users can also connect to the instance by logging in and accessing the computer desktop.
 3. **Use**: You can run commands to install software, add storage, copy and organize files, and more.
 ## Storage
 
-![](../img/ec2_storage.png)
+![[../img/ec2_storage.png]]
 
 ---
 
@@ -53,7 +53,7 @@
 - There are suited for steady-state workloads or ones with predictable usage.
 - Billing discount applied to the use of On-Demand Instances in your account.
 - Standard Reserved Instances: Is a good fit if you know the EC2 instance type and size you need for your steady-state applications and in which AWS Region you plan to run them. Require you to state the instance type and size, the platform description(OS) and Tenancy.
-- Convertible Reserved Instances: If you need to run your EC2 instances in different [02-Availability Zones](AWS/Cloud Practitioner (CLF-C02)/03-Infrastructure and Realiability/02-Availability Zones.md) or different instance types, then Convertible Reserved Instances might be right for you.
+- Convertible Reserved Instances: If you need to run your EC2 instances in different [[AWS/Cloud Practitioner (CLF-C02|02-Availability Zones]]/03-Infrastructure%20and%20Realiability/02-Availability%20Zones.md) or different instance types, then Convertible Reserved Instances might be right for you.
 
 ## Instance Saving Plans
 - Reduce your EC2 instance costs when you make an hourly spend commitment to an instance family and Region for a 1-year or 3-year term.
@@ -73,5 +73,5 @@
 !!! important EC2 User Data
 > It is possible to bootstrap our instances using an EC2 User Data script.
 > - That script is only run once at the instance first start(runs with the root user).
-> - Is used to automate boot tasks such as installing updates and software, downloading common files from the [Internet](Redes/Chapter 1/01-Internet.md), ...
+> - Is used to automate boot tasks such as installing updates and software, downloading common files from the [[Redes/Chapter 1/01-Internet.md|Internet]], ...
 

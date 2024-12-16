@@ -1,21 +1,21 @@
 !!! important Elastic Block Store(EBS) Volume
-> - A network drive you can attach to your instances while they run. -> It uses the network to communicate to the instance, which means there might be a bit of [latency](Redes/Chapter 1/03-Delay, Loss and Throughput.md).
+> - A network drive you can attach to your instances while they run. -> It uses the network to communicate to the instance, which means there might be a bit of [[Redes/Chapter 1/03-Delay, Loss and Throughput.md|latency]].
 > - It allows your instances to persist data, even after their termination.
 > - They can only be mounted to one instance at a time.
-> - They are bound to a specific [Availability Zone](AWS/Cloud Practitioner (CLF-C02)/03-Infrastructure and Realiability/02-Availability Zones.md).
+> - They are bound to a specific [[AWS/Cloud Practitioner (CLF-C02|Availability Zone]]/03-Infrastructure%20and%20Realiability/02-Availability%20Zones.md).
 > - Have a provisioned capacity -> You get billed for all the provisioned capacity, and you can increase the capacity of the drive over time.
 
 
-![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241105084929.png)
+![[AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241105084929.png]]
 
 # Delete on Termination attribute
-- Controls the EBS behaviour when a [EC2](AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/01-Amazon Elastic Compute Cloud(EC2).md) instance terminates.
+- Controls the EBS behaviour when a [[AWS/Cloud Practitioner (CLF-C02|EC2]]/02-Compute%20in%20the%20Cloud/01-Amazon%20Elastic%20Compute%20Cloud(EC2).md) instance terminates.
 	- By default, the root EBS volume is deleted(attribute enabled).
 	- By default, any other attached EBS volume is not deleted(attribute disabled).
 - This can be controlled by the AWS console/ AWS CLI.
 - Use case: Preserve root volume when instance is terminated.
 
-![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241105085254.png)
+![[AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241105085254.png]]
 
 ---
 
@@ -24,7 +24,7 @@
 > - Not necessary to detach volume to do snapshot, but recommended.
 > - Can copy snapshots across AZ or Regions.
 
-![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241105090036.png)
+![[AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241105090036.png]]
 
 # EBS Snapshots Features
 
@@ -32,7 +32,7 @@
 > - Move a Snapshot to an "archive tier" that is 75% cheaper.
 > - Takes within 24 to 72 hours for restoring the archive.
 
-![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241105090310.png)
+![[AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241105090310.png]]
 
 
 
@@ -40,7 +40,7 @@
 > - Setup rules to retain deleted snapshots so you can recover them after an accidental deletion.
 > - Specify retention(from 1 day to 1 year).
 
-![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241105090442.png)
+![[AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241105090442.png]]
 
 !!! important Fast Snapshot Restore(FSR)
 > - Force full initialization of snapshot to have no latency on the first use.
@@ -67,7 +67,7 @@
 > 
 
 
-![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241105094154.png)
+![[AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241105094154.png]]
 
 
 !!! important EBS Multi-Attach - io1/ io2 Family
@@ -76,7 +76,7 @@
 > - Use case: Achieve higher application availability in clustered Linux applications. Applications must manage concurrent write operations.
 
 
-![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241105094356.png)
+![[AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241105094356.png]]
 
 
 # EBS Encryption

@@ -1,4 +1,4 @@
-# [Amazon S3](AWS/Cloud Practitioner (CLF-C02)/05-Storage and Databases/01-Amazon Simple Storage Service(S3).md) Object Encryption
+# [[AWS/Cloud Practitioner (CLF-C02|Amazon S3]]/05-Storage%20and%20Databases/01-Amazon%20Simple%20Storage%20Service(S3).md) Object Encryption
 - You can encrypt objects in S3 buckets using one of 4 methods:
 	- Server-Side Encryption(SSE):
 		- Server-Side Encryption with Amazon S3-Managed Keys (SSE-S3) – Enabled by Default 
@@ -17,7 +17,7 @@
 > - Must set header "x-amz-server-side-encryption": "AES256".
 > - Enabled by default for new buckets & new objects.
 
-![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241203105822.png)
+![[AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241203105822.png]]
 
 ---
 
@@ -27,7 +27,7 @@
 > - Objects is encrypted server side.
 > - Must set header "x-amz-server-side-encryption": "aws:kms"
 
-![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241203110108.png)
+![[AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241203110108.png]]
 
 
 !!! warning SSE-KMS Limitation
@@ -46,9 +46,9 @@
 > - Encryption key must provided in HTTP headers, for every HTTP request made.
 
 
-![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241203110504.png)
+![[AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241203110504.png]]
 
-> [!PDF|red] [AWS Certified Solutions Architect Slides v39, p.314](AWS/Slides/AWS Certified Solutions Architect Slides v39.pdf#page=314&selection=8,0,14,15&color=red)
+> [[AWS/Slides/AWS Certified Solutions Architect Slides v39.pdf#page=314&selection=8,0,14,15&color=red]]
 > > Amazon S3 Encryption – Client-Side Encryption
 
 

@@ -6,7 +6,7 @@
 ## AWS Trusted Advisor Dashboard
 - When you access the Trusted Advisor dashboard on the AWS Management Console, you can review completed checks for cost optimization, performance, security, fault tolerance, and service limits.
 
-	![aws_trusted_advisor_dashboard](../img/aws_trusted_advisor_dashboard.png)
+	![[../img/aws_trusted_advisor_dashboard.png]]
 
 	- The green check indicates the number of items for which it detected **no problems**.
 	- The orange triangle represents the number of recommended **investigations**.

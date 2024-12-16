@@ -9,11 +9,11 @@
 > - Best practice: Run applications across at least two Availability Zones in a Region -> High availability.
 
 
-![availability_zones 1](../img/availability_zones 1.png)
+![[../img/availability_zones 1.png]]
 
 
-![ec2-instance-availability_zone1](../img/ec2-instance-availability_zone1.png)
+![[../img/ec2-instance-availability_zone1.png]]
 
-![ec2-instance-availability_zone1](../img/ec2-instance-availability_zone2.png)
+![[../img/ec2-instance-availability_zone2.png|ec2-instance-availability_zone1]]
 
-![ec2-instance-availability_zone1](../img/ec2-instance-availability_zone3.png)
+![[../img/ec2-instance-availability_zone3.png|ec2-instance-availability_zone1]]

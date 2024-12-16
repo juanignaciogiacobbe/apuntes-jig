@@ -5,7 +5,7 @@
 > - The **data** might be an image, video, text document, or any other type of file. 
 > - **Metadata** contains information about what the data is, how it is used, the object size, and so on. 
 
-![object_storage](../img/object_storage.png)
+![[../img/object_storage.png]]
 
 ---
 
@@ -33,7 +33,7 @@
 
 
 !!! important Amazon S3 Static Website Hosting
-> S3 can host static websites and have them accesible on the [Internet](Redes/Chapter 1/01-Internet.md).
+> S3 can host static websites and have them accesible on the [[Redes/Chapter 1/01-Internet.md|Internet]].
 > - If you get a 403 Forbidden error, make sure the Bucket Policy allows public reads.
 
 
@@ -46,7 +46,7 @@
 	- Easy roll back to previous version.
 - Any file that is not versioned prior to enabling versioning will have version "null".
 - Suspending versioning does not delete the previous versions.
-![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241203101410.png)
+![[AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241203101410.png]]
 
 ---
 
@@ -76,9 +76,9 @@
 	- How often you plan to retrieve your data.
 	- How available you need your data to be.
 
-![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241203102402.png)
+![[AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241203102402.png]]
 
-![](AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241203102428.png)
+![[AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241203102428.png]]
 ### S3 Standard
 - Designed for **frequently accessed data**.
 - Stores data in a minimum of three Availability Zones.

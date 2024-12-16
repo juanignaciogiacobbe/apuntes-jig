@@ -9,7 +9,7 @@
 > - To help maintain application availability when a single component fails, you can desing your application through a microservices approach.
 
 
-![monolithic_app](../img/monolithic_app.png)
+![[../img/monolithic_app.png]]
 
 
 !!! important Microservices
@@ -20,16 +20,16 @@
 > - Two services facilitate application integration: Amazon Simple Notification Service (Amazon SNS) and Amazon Simple Queue Service (Amazon SQS).
 
 
-![microservices_app](../img/microservices_app.png)
+![[../img/microservices_app.png]]
 
 
 
 !!! important Amazon Simple Notification Service(Amazon SNS)
 > - Is a publish/subscribe service. Using Amazon SNS topics, a publisher publishes messages to subscribers.
 
-![pub_sub_example1](../img/pub_sub_example1.png)
+![[../img/pub_sub_example1.png]]
 
-![pub_sub_example2](../img/pub_sub_example2.png)
+![[../img/pub_sub_example2.png]]
 
 
 !!! important Amazon Simple Queue Service(Amazon SQS)
@@ -37,6 +37,6 @@
 > - You can send, store, and receive messages between software components, without losing messages or requiring other services to be available. In Amazon SQS, an application sends messages into a queue. A user or service retrieves a message from the queue, processes it, and then deletes it from the queue.
 
 
-![queuing_example1](../img/queuing_example1.png)
+![[../img/queuing_example1.png]]
 
-![queuing_example2](../img/queuing_example2.png)
+![[../img/queuing_example2.png]]

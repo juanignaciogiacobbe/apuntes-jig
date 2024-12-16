@@ -2,9 +2,9 @@
 - Security and Compliance is a shared responsibility between AWS and the customer.
 - **AWS is responsible for some parts of your environment and you (the customer) are responsible for other parts**.
 - The **shared responsibility model divides into customer responsibilities (commonly referred to as “security in the cloud”) and AWS responsibilities (commonly referred to as “security of the cloud”)**.
-- Consider employing the [37-AWS Cloud Adoption Framework](AWS/Cloud Practitioner (CLF-C02)/09-Migration and Innovation/37-AWS Cloud Adoption Framework.md) and [41-The AWS Well-Architected Framework](AWS/Cloud Practitioner (CLF-C02)/10-The Cloud Journey/41-The AWS Well-Architected Framework.md) to plan and execute your digital transformation at scale.
+- Consider employing the [[AWS/Cloud Practitioner (CLF-C02|37-AWS Cloud Adoption Framework]]/09-Migration%20and%20Innovation/37-AWS%20Cloud%20Adoption%20Framework.md) and [[AWS/Cloud Practitioner (CLF-C02|41-The AWS Well-Architected Framework]]/10-The%20Cloud%20Journey/41-The%20AWS%20Well-Architected%20Framework.md) to plan and execute your digital transformation at scale.
 
-	![shared_responsibility_model](../img/shared_responsibility_model.png)
+	![[../img/shared_responsibility_model.png]]
 
 ## Customers: Security IN the Cloud
 - **Customers are responsible for the security of everything that they create and put _in_ the AWS Cloud**.
