@@ -9,7 +9,7 @@
 
 ## Modelo OSI de la ISO
 
-![](Programación%20Concurrente/img%20concu/Pasted%20image%2020241215101041.png)
+![[Programación Concurrente/img concu/Pasted image 20241215101041.png]]
 
 
 !!! note "Capa Física"
