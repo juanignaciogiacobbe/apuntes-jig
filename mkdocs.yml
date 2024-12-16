@@ -53,7 +53,9 @@ markdown_extensions:
 
 plugins:
   - search
-  - roamlinks
+  - roamlinks:
+      extension: md
+      pretty_print: true
   - blog
   - rss:
       match_path: blog/posts/.* 
