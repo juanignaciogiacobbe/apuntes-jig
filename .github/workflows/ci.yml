@@ -21,19 +21,13 @@ jobs:
         with:
           python-version: 3.x
 
-      - name: Cache Dependencies
-        uses: actions/cache@v2
-        with:
-          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
-          path: ~/.cache/pip
-
       - name: Install Dependencies
         run: |
-          pip install mkdocs-material mkdocs-roamlinks-plugin mkdocs-rss-plugin
+          pip install mkdocs-material mkdocs-roamlinks-plugin
 
-      - name: Adjust Wikilinks for Alias
+      - name: Transform Wikilinks with Alias
         run: |
-          find . -type f -name "*.md" -exec sed -i -E 's/\[\[([^\|\]]+)\|([^\]]+)\]\]/\[\[\1\]\]/g' {} +
+          find . -type f -name "*.md" -exec sed -i -E 's/\[\[([^\|\]]+)\|([^\]]+)\]\]/<a href="\1.md">\2<\/a>/g' {} +
 
       - name: Build MkDocs Site
         run: mkdocs build --clean
