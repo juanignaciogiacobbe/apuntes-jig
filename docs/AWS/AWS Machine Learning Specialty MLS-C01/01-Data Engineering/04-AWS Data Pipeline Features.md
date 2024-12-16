@@ -1,12 +1,12 @@
 
 !!! important AWS Data Pipeline
-> - Destinations include [S3](AWS/Cloud Practitioner (CLF-C02)/05-Storage and Databases/01-Amazon Simple Storage Service(S3).md), [RDS](AWS/Cloud Practitioner (CLF-C02)/05-Storage and Databases/02-Amazon Relational Database Service(RDS).md), DynamoDB, Redshift and EMR.
+> - Destinations include [[AWS/Cloud Practitioner CLF-C02/05-Storage and Databases/01-Amazon Simple Storage Service S3|S3]], [[AWS/Cloud Practitioner CLF-C02/05-Storage and Databases/02-Amazon Relational Database Service RDS|RDS]], DynamoDB, Redshift and EMR.
 > - Manages task dependencies.
 > - Retries and notifies on failures.
 > - Data sources may be on-premises.
 > - Highly Available.
 
-![](AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204114531.png)
+![[AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204114531.png]]
 
 !!! warning AWS Data Pipeline VS Glue 
 - Glue:
@@ -16,4 +16,4 @@
 - Data Pipeline:
 	- Orchestation service.
 	- More control over the environment, compute resources that run code, & code.
-	- Allows access to [EC2](AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/01-Amazon Elastic Compute Cloud(EC2).md) or EMR instances(creates resources in your own account).
+	- Allows access to [[AWS/Cloud Practitioner CLF-C02/02-Compute in the Cloud/01-Amazon Elastic Compute Cloud EC2|EC2]] or EMR instances(creates resources in your own account).

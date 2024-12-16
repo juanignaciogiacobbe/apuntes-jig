@@ -4,9 +4,9 @@
 > - Great for application logs, metrics, IoT, clickstreams.
 > - Great for "real-time" big data.
 > - Great for streaming processing frameworks.
-> - Data is automatically replicated synchronously to 3 [AZ](AWS/Cloud Practitioner (CLF-C02)/03-Infrastructure and Realiability/02-Availability Zones.md).
+> - Data is automatically replicated synchronously to 3 [[AWS/Cloud Practitioner CLF-C02/03-Infrastructure and Realiability/02-Availability Zones|AZ]].
 
-![](AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204101111.png)
+![[AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204101111.png]]
 
 ---
 
@@ -20,7 +20,7 @@
 > - Once data is inserted in Kinesis, it can't be deleted(immutability).
 > - Records can be up to 1MB in size.
 
-![](AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204101410.png)
+![[AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204101410.png]]
 
 
 !!! note Kinesis Data Streams - Capacity Modes
@@ -48,7 +48,7 @@
 > - Schema discovery.
 > - Lambda can be used for pre-processing.
 
-![](AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204103319.png)
+![[AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204103319.png]]
 
 !!! note Use Cases
 > - Streaming ETL: Select columns, make simple transformations, on streaming data.
@@ -58,7 +58,7 @@
 
 !!! warning Machine Learning on Kinesis Data Analytics
 
-![](AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204104046.png)
+![[AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204104046.png]]
 
 ## Kinesis Data Analytics + Lambda
 - AWS Lambda can be a destination as well.
@@ -76,15 +76,15 @@
 !!! important Kinesis Firehose
 > - Fully managed service, no administration.
 > - Near Real Time(Buffer based on time and size, optionally can be disabled).
-> - Data Ingestion into Redshift/ [Amazon S3](AWS/Cloud Practitioner (CLF-C02)/05-Storage and Databases/01-Amazon Simple Storage Service(S3).md), ElasticSearch / Splunk.
+> - Data Ingestion into Redshift/ [[AWS/Cloud Practitioner CLF-C02/05-Storage and Databases/01-Amazon Simple Storage Service S3|Amazon S3]], ElasticSearch / Splunk.
 > - Automatic scaling.
 > - Supports many data formats.
 > - Data Conversions from CSV/ JSON to Parquet / ORC(only for S3).
-> - Data Transformation through [AWS Lambda](AWS/Cloud Practitioner (CLF-C02)/02-Compute in the Cloud/06-AWS Lambda.md).
+> - Data Transformation through [[AWS/Cloud Practitioner CLF-C02/02-Compute in the Cloud/06-AWS Lambda|AWS Lambda]].
 > - Supports compression when target is Amazon S3(GZIP, ZIP and SNAPPY).
 > - Pay for the amount of data going through Firehose.
 
-![](AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204102047.png)
+![[AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204102047.png]]
 
 ---
 
@@ -92,6 +92,6 @@
 !!! important Kinesis Video Streams
 > Meant for streaming video in real-time.
 
-![](AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204104618.png)
+![[AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204104618.png]]
 
 
