@@ -1,10 +1,10 @@
 
-> [!IMPORTANT] File Storage
+!!! important File Storage
 > - **Multiple clients can access data that is stored in shared file folders**.
 > - A storage server uses block storage with a local file system to organize files. Clients access data through file paths.
 > - File storage is **ideal for use cases in which a large number of services and resources need to access the same data at the same time**.
 
-> [!IMPORTANT] Elastic File System(EFS)
+!!! important Elastic File System(EFS)
 > - Managed NFS(network file system) that can be mounted on many [EC2](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/01-Amazon%20Elastic%20Compute%20Cloud(EC2).md).
 > - Works with EC2 instances in Multi-[AZ](AWS/Cloud%20Practitioner%20(CLF-C02)/03-Infrastructure%20and%20Realiability/02-Availability%20Zones.md).
 > - Highly available, scalable, expensive, pay per use.

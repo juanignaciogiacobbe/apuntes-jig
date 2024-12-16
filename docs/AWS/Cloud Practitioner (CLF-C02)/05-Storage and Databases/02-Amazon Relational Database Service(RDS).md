@@ -1,5 +1,5 @@
 
-> [!IMPORTANT] Relational Databases
+!!! important Relational Databases
 > - **Data is stored in a way that relates it to other pieces of data**.
 > - Relational databases use **structured query language (SQL)** to store and query data. **This approach allows data to be stored in an easily understandable, consistent, and scalable way**.
 
@@ -18,7 +18,7 @@
 	- Microsoft SQL Server.
 
 
-> [!WARNING] RDS VS Deploying DB on [EC2](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/01-Amazon%20Elastic%20Compute%20Cloud(EC2).md)
+!!! warning RDS VS Deploying DB on [EC2](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/01-Amazon%20Elastic%20Compute%20Cloud(EC2).md)
 - RDS is a managed service:
 	- Automated provisioning, OS patching.
 	- Continuous backups and restore to specific timestamp(Point in Time Restore).
@@ -32,7 +32,7 @@
 
 ---
 
-> [!IMPORTANT] RDS Storage Auto Scaling
+!!! important RDS Storage Auto Scaling
 > - Helps you increase storage on your RDS DB instance dynamically.
 > - When RDS detects you are running out of free database storage, it scales automatically.
 > - Avoid manually scaling your database storage.

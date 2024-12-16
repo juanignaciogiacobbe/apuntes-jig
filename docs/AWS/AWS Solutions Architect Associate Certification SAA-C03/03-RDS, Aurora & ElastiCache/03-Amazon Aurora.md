@@ -3,7 +3,7 @@
 - **Consider Amazon Aurora if your workloads require high availability**. It replicates six copies of your data across three Availability Zones and continuously backs up your data to [01-Amazon Simple Storage Service(S3)](AWS/Cloud%20Practitioner%20(CLF-C02)/05-Storage%20and%20Databases/01-Amazon%20Simple%20Storage%20Service(S3).md).
 
 
-> [!IMPORTANT] Amazon Aurora
+!!! important Amazon Aurora
 > - It is compatible with MySQL and PostgreSQL relational databases. 
 > - **Up to 5x faster than standard MySQL databases and up to three times faster than standard PostgreSQL databases**.
 > - Failover is instantaneous -> It's High Availability native.
@@ -14,7 +14,7 @@
 ![](AWS/AWS%20Solutions%20Architect%20Associate%20Certification%20SAA-C03/img/Pasted%20image%2020241202131417.png)
 
 
-> [!NOTE] Features of Aurora
+!!! note Features of Aurora
 - Automatic Failover.
 - Backup and Recovery.
 - Isolation and Security.
@@ -28,13 +28,13 @@
 ![](AWS/AWS%20Solutions%20Architect%20Associate%20Certification%20SAA-C03/img/Pasted%20image%2020241202131825.png)
 
 
-> [!IMPORTANT] Aurora Custom Endpoints
+!!! important Aurora Custom Endpoints
 > - Define a subset of Aurora Instances as a Custom Endpoint.
 > - The Reader Endpoint is generally not used after defining Custom Endpoints.
 
 ---
 
-> [!IMPORTANT] Aurora Serverless
+!!! important Aurora Serverless
 > - Automated database instantiation and autoscaling based on actual usage.
 > - Good for infrequent,intermittent of unpredictable workloads.
 > - No capacity planning needed.

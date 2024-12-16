@@ -10,7 +10,7 @@
 	- Client-Side Encryption.
 
 
-> [!IMPORTANT] Server Side Encryption-S3
+!!! important Server Side Encryption-S3
 > - Encryption using keys handled, managed, and owned by AWS.
 > - Object is encrypted server-side,
 > - Encryption type is AES-256.
@@ -21,7 +21,7 @@
 
 ---
 
-> [!IMPORTANT] Server-Side Encryption-KMS
+!!! important Server-Side Encryption-KMS
 > - Encryption using keys handled and managed by AWS KMS.
 > - Advantages: User control + Audit key usage using CloudTrail.
 > - Objects is encrypted server side.
@@ -30,7 +30,7 @@
 ![](AWS/AWS%20Solutions%20Architect%20Associate%20Certification%20SAA-C03/img/Pasted%20image%2020241203110108.png)
 
 
-> [!WARNING] SSE-KMS Limitation
+!!! warning SSE-KMS Limitation
 - You may be impacted by the KMS limits.
 - When you upload, ir calls the GenerateDataKey KMS API.
 - When you download, it calls the Decrypt KMS API.
@@ -39,7 +39,7 @@
 ---
 
 
-> [!IMPORTANT] Server-Side Encryption-C
+!!! important Server-Side Encryption-C
 > - Server-Side encryption using keys fully managed by the customer outside of AWS.
 > - Amazon S3 DOES NOT store the encryption key you provide.
 > - HTTPS must be used.

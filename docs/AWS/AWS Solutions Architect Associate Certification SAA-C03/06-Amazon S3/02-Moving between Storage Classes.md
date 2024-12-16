@@ -1,5 +1,5 @@
 
-> [!IMPORTANT] [Amazon S3](AWS/Cloud%20Practitioner%20(CLF-C02)/05-Storage%20and%20Databases/01-Amazon%20Simple%20Storage%20Service(S3).md): Moving between Storage Classes
+!!! important [Amazon S3](AWS/Cloud%20Practitioner%20(CLF-C02)/05-Storage%20and%20Databases/01-Amazon%20Simple%20Storage%20Service(S3).md): Moving between Storage Classes
 > - You can transition object between storage classes.
 > 	- For infrequently accessed object, move them to Standard IA.
 > 	- For archive objects that you don't need fast access to, move them to Glacier or Glacier Deep Archive.
@@ -9,7 +9,7 @@
 
 
 
-> [!IMPORTANT] Amazon S3 Lifecycle Rules
+!!! important Amazon S3 Lifecycle Rules
 > - Transition Actions: Configure objects to transition to another storage class
 > 	- Move objects to Standard IA class 60 days after creation.
 > 	- Move to Glacier for archiving after 6 months.
@@ -20,7 +20,7 @@
 > - Rules can be created to a certain Prefix or for certain objects Tags.
 
 
-> [!IMPORTANT] Amazon S3 Analytics - Storage Class Analysis
+!!! important Amazon S3 Analytics - Storage Class Analysis
 > - Help you decide when to transition objects to the right storage class.
 > - Recommendations for Standard and Standard IA(Does NOT work for One-Zone IA or Glacier).
 > - Report is updated daily.

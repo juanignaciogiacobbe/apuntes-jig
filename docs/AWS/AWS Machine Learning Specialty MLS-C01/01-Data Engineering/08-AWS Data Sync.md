@@ -1,5 +1,5 @@
 
-> [!IMPORTANT] AWS DataSync
+!!! important AWS DataSync
 > - For Data migrations from on-premises to AWS storage services.
 > - A DataSync Agent is deployed as a VM and connects to your internal storage.
 > - Encryption and Data validation.

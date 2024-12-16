@@ -1,12 +1,12 @@
 
-> [!IMPORTANT] Domain Name System(DNS)
+!!! important Domain Name System(DNS)
 > - Translates the human friendly hostnames into the machine IP addresses.
 > - Is the backbone of the [Internet](Redes/Chapter%201/01-Internet.md).
 > - It uses hierarchical naming structure.
 
 ![](AWS/AWS%20Solutions%20Architect%20Associate%20Certification%20SAA-C03/img/Pasted%20image%2020241202133240.png)
 
-> [!WARNING] DNS Terminologies
+!!! warning DNS Terminologies
 - Domain Registrar: Amazon Route 53, GoDaddy, ...
 - DNS Records: A, AAAA, CNAME, ...
 - Zone File: Contains DNS Records.
@@ -18,7 +18,7 @@
 
 
 
-> [!IMPORTANT] Amazon Route 53
+!!! important Amazon Route 53
 > - Highly available, scalable, fully managed and Authoritative(You can update the DNS records) DNS.
 > - Is also a Domain Registrar.
 > - Ability to check the health of your resources.

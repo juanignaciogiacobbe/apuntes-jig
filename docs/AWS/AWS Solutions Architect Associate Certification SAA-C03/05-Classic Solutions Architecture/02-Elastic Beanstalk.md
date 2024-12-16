@@ -1,5 +1,5 @@
 
-> [!IMPORTANT] Elastic Beanstalk
+!!! important Elastic Beanstalk
 > A developer centric view of deploying an application on AWS.
 > - Managed Service:
 > 	- Automatically handles capacity provisioning, load balancing, scaling, application health monitoring, instance configuration, ...

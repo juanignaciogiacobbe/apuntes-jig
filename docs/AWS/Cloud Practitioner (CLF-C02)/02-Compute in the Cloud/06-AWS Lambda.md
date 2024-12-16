@@ -1,5 +1,5 @@
 
-> [!IMPORTANT] AWS Lambda
+!!! important AWS Lambda
 > - Is a [Serverless Computing](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/04-Serverless%20Computing.md) service that lets you run code without managing servers.
 > - **Lets you run code without needing to provision or manage servers**.
 > - You author application code, called functions, using many popular languages.

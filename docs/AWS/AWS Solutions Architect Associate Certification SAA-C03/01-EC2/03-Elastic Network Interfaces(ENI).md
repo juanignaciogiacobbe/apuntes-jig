@@ -1,5 +1,5 @@
 
-> [!IMPORTANT] Elastic Network Interfaces(ENI)
+!!! important Elastic Network Interfaces(ENI)
 > - Logical component in a [VPC](AWS/Cloud%20Practitioner%20(CLF-C02)/04-Networking/01-Amazon%20Virtual%20Private%20Cloud(VPC).md) that represents a virtual network card. You can create ENI independently and attach them on the fly on [EC2](AWS/Cloud%20Practitioner%20(CLF-C02)/02-Compute%20in%20the%20Cloud/01-Amazon%20Elastic%20Compute%20Cloud(EC2).md) instances to failover.
 > - Can have the following attributes:
 > 	- Primary private IPv4, one or more secondary IPv4.

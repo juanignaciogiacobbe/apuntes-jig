@@ -1,5 +1,5 @@
 
-> [!WARNING] [AmazonS3](AWS/Cloud%20Practitioner%20(CLF-C02)/05-Storage%20and%20Databases/01-Amazon%20Simple%20Storage%20Service(S3).md) Security
+!!! warning [AmazonS3](AWS/Cloud%20Practitioner%20(CLF-C02)/05-Storage%20and%20Databases/01-Amazon%20Simple%20Storage%20Service(S3).md) Security
 - User-Based:
 	- IAM Policies: Which API calls should be allowed for a specific user from IAM.
 - Resource-Based:
@@ -14,14 +14,14 @@
 
 # S3 Bucket Policies
 
-> [!IMPORTANT] JSON Based Policies
+!!! important JSON Based Policies
 > - Resources: Buckets and Objects.
 > - Effect: Allow or Deny.
 > - Actions: Set o API to Allow or Deny.
 > - Principal: The account or user to apply the policy to.
 
 
-> [!WARNING] Use S3 Bucket for Policy to:
+!!! warning Use S3 Bucket for Policy to:
 - Grant public access to the bucket.
 - Force objects to be encrypted at upload.
 - Grant access to another account(Cross account).

@@ -1,5 +1,5 @@
 
-> [!IMPORTANT] Glue Data Catalog
+!!! important Glue Data Catalog
 > - Metadata repository for all your tables:
 > 	- Automated Schema Inference.
 > 	- Schemas are versioned.
@@ -8,21 +8,21 @@
 
 ![](AWS/AWS%20Machine%20Learning%20Specialty%20MLS-C01/img/Pasted%20image%2020241204112708.png)
 
-> [!IMPORTANT] Glue Data Catalog Crawlers
+!!! important Glue Data Catalog Crawlers
 > Crawlers goes through your data to infer schemas and partitions.
 > - Works JSON, Parquet, CSV, relational store.
 > - Crawlers work for [S3](AWS/Cloud%20Practitioner%20(CLF-C02)/05-Storage%20and%20Databases/01-Amazon%20Simple%20Storage%20Service(S3).md), Redshift, [Amazon RDS](AWS/Cloud%20Practitioner%20(CLF-C02)/05-Storage%20and%20Databases/02-Amazon%20Relational%20Database%20Service(RDS).md).
 > - Need an IAM role/ credentials to access the data stores.
 
 
-> [!IMPORTANT] Glue and [S3 Partitions](AWS/AWS%20Machine%20Learning%20Specialty%20MLS-C01/01-Data%20Engineering/01-Amazon%20S3%20for%20Machine%20Learning.md)
+!!! important Glue and [S3 Partitions](AWS/AWS%20Machine%20Learning%20Specialty%20MLS-C01/01-Data%20Engineering/01-Amazon%20S3%20for%20Machine%20Learning.md)
 > - Glue crawler will extract partitions based on how your S3 data is organized.
 > - Think up front how you will be querying your data lake in S3.
 
 ---
 
 
-> [!IMPORTANT] Glue ETL
+!!! important Glue ETL
 > - Transform data, Clean Data, Enrich Data(before doing analysis).
 > 	- Generate ETL code in Python or Scala, you can modify the code.
 > 	- Can provide your own Spark or PySpark scripts.
@@ -33,7 +33,7 @@
 > - Glue Triggers to automate job runs based on "events".
 
 
-> [!WARNING] Glue ETL - Transformations
+!!! warning Glue ETL - Transformations
 - Bundled Transformations:
 	- DropFields, DropNullFields -> Remove(null) fields.
 	- Filter -> Specify a function to filter records.
@@ -44,7 +44,7 @@
 
 ---
 
-> [!IMPORTANT] AWS Glue DataBrew
+!!! important AWS Glue DataBrew
 > - Allows you to clean and normalize data without writing any code.
 > - Reduce ML and analytics data preparation time by up to 80%.
 > - Data sources include [S3](AWS/Cloud%20Practitioner%20(CLF-C02)/05-Storage%20and%20Databases/01-Amazon%20Simple%20Storage%20Service(S3).md), Redshift, [Aurora](AWS/AWS%20Solutions%20Architect%20Associate%20Certification%20SAA-C03/03-RDS,%20Aurora%20&%20ElastiCache/03-Amazon%20Aurora.md), Glue Data Catalog, ...
