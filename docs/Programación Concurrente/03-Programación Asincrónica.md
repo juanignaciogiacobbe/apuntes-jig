@@ -1,9 +1,9 @@
 
- !!! warning Problema del uso de Threads
+ !!! warning "Problema del uso de Threads"
 > Si una aplicación va creando muchos threads, cada uno puede tener 100kB de stack -> Puede ser un problema la demanda de memoria.
 
 
-!!! note Tareas Asincrónicas de Rust
+!!! note "Tareas Asincrónicas de Rust"
 > Se las pueden usar para intercalar tareas en un único thread o en un pool de threads.
 > Son mucho mas livianas que los threads, más rápidas de crear, y más eficientes para pasarles el control.
 > - La restricción la tiene en qué tipo de procesamiento voy a hacer.
@@ -21,7 +21,7 @@
 
 
 
-!!! note Futures
+!!! note "Futures"
 > Representa una operación sobre la que se puede testear si se completó.
 > El método *poll* nunca bloquea.
 > Si la operación se completó, retorna `Poll:Ready(output)`, y si no se completó, retorna `Pending`.

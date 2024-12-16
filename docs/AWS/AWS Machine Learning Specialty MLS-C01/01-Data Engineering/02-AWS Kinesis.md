@@ -1,5 +1,5 @@
 
-!!! note AWS Kinesis
+!!! note "AWS Kinesis"
 > - Is a managed alternative to Apache Kafka.
 > - Great for application logs, metrics, IoT, clickstreams.
 > - Great for "real-time" big data.
@@ -11,7 +11,7 @@
 ---
 
 
-!!! note Kinesis Streams
+!!! note "Kinesis Streams"
 > Low latency streaming ingest at scale.
 > - Streams are divided in ordered Shards/Partitions.
 > - Data retention is 24 hours by default, can go up to 365 days.
@@ -23,7 +23,7 @@
 ![[AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204101410.png]]
 
 
-!!! note Kinesis Data Streams - Capacity Modes
+!!! note "Kinesis Data Streams - Capacity Modes"
 > - Provisioned Mode:
 > 	- You can choose the number of shards provisioned, scale manually or using API.
 > 	- Each shard gets 1MB/s in(or 1000 records per second).
@@ -39,7 +39,7 @@
 ---
 
 
-!!! note Kinesis Analytics
+!!! note "Kinesis Analytics"
 > Perform real-time analytics on streams using SQL.
 > - Pay only for resources consumed(but it's not cheap).
 > - Serverless: Scale automatically.
@@ -50,13 +50,13 @@
 
 ![[AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204103319.png]]
 
-!!! note Use Cases
+!!! note "Use Cases"
 > - Streaming ETL: Select columns, make simple transformations, on streaming data.
 > - Continuous metric generation: Live leaderboard for a mobile game.
 > - Responsive analytics: Look for certain criteria and build alerting(filtering).
 
 
-!!! warning Machine Learning on Kinesis Data Analytics
+!!! warning "Machine Learning on Kinesis Data Analytics"
 
 ![[AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204104046.png]]
 
@@ -73,7 +73,7 @@
 ---
 
 
-!!! note Kinesis Firehose
+!!! note "Kinesis Firehose"
 > - Fully managed service, no administration.
 > - Near Real Time(Buffer based on time and size, optionally can be disabled).
 > - Data Ingestion into Redshift/ [[AWS/Cloud Practitioner CLF-C02/05-Storage and Databases/01-Amazon Simple Storage Service S3|Amazon S3]], ElasticSearch / Splunk.
@@ -89,7 +89,7 @@
 ---
 
 
-!!! note Kinesis Video Streams
+!!! note "Kinesis Video Streams"
 > Meant for streaming video in real-time.
 
 ![[AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204104618.png]]

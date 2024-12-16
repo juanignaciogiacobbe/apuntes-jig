@@ -1,5 +1,5 @@
 
-!!! note Fork-Join
+!!! note "Fork-Join"
 > Es un modelo de paralelización donde el cómputo(task) es partido en sub-cómputos menores(sub-tasks). Los resultados de estos se unen(join) para construir la solución al cómputo inicial.
 > Partir la task se realiza en general de forma recursiva:
 > - Los sub-cómputos son independientes(NO dependen de nada) -> El cómputo se puede realizar en paralelo. 
@@ -9,7 +9,7 @@
 ![[Programación Concurrente/img concu/Pasted image 20241002165245.png]]
 
 
-!!! warning Caracteristicas del Fork-Join
+!!! warning "Caracteristicas del Fork-Join"
 - Es un modelo de Concurrencia sin condiciones de carrera.
 - Los programas son *determinísticos*, y los threads están aislados. El programa produce el mismo resultado independientemente de las diferencias de velocidad de los threads.
 - **Performance**: En el caso ideal es $t_{secuencial}/N_{threads}$ -> Puede variar por diferencias en el tamaño de una tarea, y porque se debe realizar procesamiento para hacer la combinación de los resultados individuales.
@@ -19,7 +19,7 @@
 
 
 
-!!! quote MapReduce
+!!! quote "MapReduce"
 > Is a programming model and an associated implementation for processing and generating large data sets. Users specify a map function that processes a key/value pair to generate a set of intermediate key/value pairs, and a reduce function that merges all intermediate values associated with the same intermediate key.
 
 ## Work Stealing

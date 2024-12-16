@@ -1,5 +1,5 @@
 
-!!! note Object Storage
+!!! note "Object Storage"
 > - **Each object consists of data, metadata, and a key**. -> An object’s **key** is its unique identifier.
 > - When you modify a file in block storage, only the pieces that are changed are updated. When a file in object storage is modified, the entire object is updated.
 > - The **data** might be an image, video, text document, or any other type of file. 
@@ -9,7 +9,7 @@
 
 ---
 
-!!! note Amazon Simple Storage Service(S3)
+!!! note "Amazon Simple Storage Service(S3)"
 > - It's advertised as a "infinitely scaling" storage.
 > - Provides **object-level storage**. -> **S3 stores data as objects in buckets**. 
 > - Buckets must have a globally unique name(across all Regions all accounts). -> Are defined at the Region level.
@@ -21,7 +21,7 @@
 > - You can set security at the bucket level or individual object level using access control lists (ACLs), bucket policies, or access point policies.
 
 
-!!! warning S3 Use Cases
+!!! warning "S3 Use Cases"
 - Backup and Storage.
 - Disaster Recovery.
 - Archive.
@@ -32,12 +32,12 @@
 - Static Website.
 
 
-!!! note Amazon S3 Static Website Hosting
+!!! note "Amazon S3 Static Website Hosting"
 > S3 can host static websites and have them accesible on the [[Redes/Chapter 1/01-Internet|Internet]].
 > - If you get a 403 Forbidden error, make sure the Bucket Policy allows public reads.
 
 
-!!! warning S3 Versioning
+!!! warning "S3 Versioning"
 > You can version your files in Amazon S3. -> It is enabled at the bucket level.
 > 
 - Same key overwrite will change the "version": 1, 2, 3, ...
@@ -50,7 +50,7 @@
 
 ---
 
-!!! note Amazon S3 Replication(CRR & SRR)
+!!! note "Amazon S3 Replication(CRR & SRR)"
 - Must enable Versioning in source and destination buckets.
 - Cross-Region Replication(CRR). -> Compliance, lower latency access, replication across accounts
 - Same-Region Replication(SRR). -> Log aggregation, live replication between production and test accounts.
@@ -59,7 +59,7 @@
 - Must give proper IAM permissions to S3.
 
 
-!!! warning Replication
+!!! warning "Replication"
 - After you enable Replication, only new objects are replicated.
 - You can replace existing objects using S3 Batch Replication -> Replicates existing objects and objects that failed replication.
 - For `DELETE` operations:

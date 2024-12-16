@@ -7,7 +7,7 @@
 	- La sección no-crítica no requiere progreso(el proceso puede terminar o entrar en un loop infinito).
 
 
-!!! warning Propiedades del tipo Safety
+!!! warning "Propiedades del tipo Safety"
 > Deben ser verdaderas siempre.
 
 - **Exclusion mutua**: Dos procesos no deben intercalar ciertas (sub)secuencias de instrucciones. Ejemplo: incremento de variables globales.
@@ -16,7 +16,7 @@
 	- Si dos procesos están tratando de entrar a la sección critica, eventualmente alguno de ellos debe tener éxito.
 
 
-!!! warning Propiedades del tipo Liveness
+!!! warning "Propiedades del tipo Liveness"
 > Deben volverse verdaderas eventualmente.
 
 - **Ausencia de Starvation**: Todo proceso que esté listo para utilizar un recurso debe recibir dicho recurso eventualmente.

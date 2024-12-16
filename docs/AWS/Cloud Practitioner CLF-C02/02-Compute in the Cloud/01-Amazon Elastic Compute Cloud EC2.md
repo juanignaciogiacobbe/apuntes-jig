@@ -1,5 +1,5 @@
 
-!!! note Amazon Elastic Compute Cloud(EC2)
+!!! note "Amazon Elastic Compute Cloud(EC2)"
 > - Allows you to **rent and manage virtual servers in the Cloud**(Infrastructure as a Service). -> Provides secure, resizable compute capacity in the Cloud.
 > 	- Provision and launch an Amazon EC2 instance within minutes.
 > 	- Stop using it when you have finished running a workload.
@@ -10,7 +10,7 @@
 > 	- Highly flexible, cost-effective and quick when you compare it to running your own servers on premises in a data center that you own.
 
 
-!!! note Multitenancy
+!!! note "Multitenancy"
 > Sharing underlying hardware between Virtual Machines. EC2 runs on top of physical host machines managed by AWS using virtualization technology.
 
 ![[AWS/Cloud Practitioner CLF-C02/img/EC2_example.png]]
@@ -24,7 +24,7 @@
 
 ---
 
-!!! note EC2 Instance Types
+!!! note "EC2 Instance Types"
 > - Each EC2 instance type is grouped under an instance family.
 > - They offer varying combinations of CPU, memory, storage and networking capacity.
 
@@ -34,7 +34,7 @@
 - **Accelerated Computing**: Are good for floating point number calculations, graphics processing, or data pattern matching, as they use hardware accelerators.
 - **Storage Optimized**: For Workloads that require high performance for locally stored data.
 
-!!! warning Naming Convention
+!!! warning "Naming Convention"
 > Example: `m5.2xlarge`
 > - `m`: Instance class.
 > - `5`: Generation.
@@ -42,7 +42,7 @@
 
 ---
 
-!!! warning EC2 Pricing
+!!! warning "EC2 Pricing"
 > You only pay for what you use.
 ## On-Demand Instances
 - You only pay for the duration that your instance runs for.
@@ -70,7 +70,7 @@
 
 ---
 
-!!! note EC2 User Data
+!!! note "EC2 User Data"
 > It is possible to bootstrap our instances using an EC2 User Data script.
 > - That script is only run once at the instance first start(runs with the root user).
 > - Is used to automate boot tasks such as installing updates and software, downloading common files from the [[Redes/Chapter 1/01-Internet|Internet]], ...

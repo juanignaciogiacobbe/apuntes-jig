@@ -1,14 +1,14 @@
 
-!!! note Scalability
+!!! note "Scalability"
 > Involves beginning with only the resources you need and designing your architecture to automatically respond to changing demand by scaling out or in. 
 > - You don’t have to worry about a lack of computing capacity to meet your customers’ needs.
 
-!!! warning Kinds of Scalability
+!!! warning "Kinds of Scalability"
 > - Vertical Scalability -> Increasing the size of the instance. There's usually a limit to how much you can vertically scale(hardware limit).
 > - Horizontal Scalability -> Increasing the number of instances/systems for your application. It's easy to horizontally scale thanks the Cloud offerings.
 
 
-!!! note High Availability
+!!! note "High Availability"
 > Running your application/system in at least 2 Data Centers(== [[AWS/Cloud Practitioner CLF-C02/03-Infrastructure and Realiability/02-Availability Zones|Availability Zones]]).
 > - It's goal is to survive a data center loss.
 
@@ -17,7 +17,7 @@
 > - Enables you to automatically add or remove Amazon EC2 instances in response to changing application demand. -> You can maintain a greater sense of application availability.
 
 
-!!! note Auto Scaling Group
+!!! note "Auto Scaling Group"
 > - Scale out to match an increased load.
 > - Scale in to match a decreased load.
 > - Ensure we have a minimum and a maximum number of EC2 instances running.
@@ -27,7 +27,7 @@
 ![[AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241202122835.png]]
 
 
-!!! warning Auto Scaling Group Attributes
+!!! warning "Auto Scaling Group Attributes"
 - Launch Template:
 	- [[AWS/AWS Solutions Architect Associate Certification SAA-C03/02-EC2 Instance Storage/02-AMI|AMI]] + Instance Type.
 	- EC2 User Data.
@@ -45,7 +45,7 @@
 
 
 
-!!! note Auto Scaling Instance Refresh
+!!! note "Auto Scaling Instance Refresh"
 > Update launch template and then re-creating all EC2 instances.
 > - Setting of minimum healthy percentage.
 > - Specify warm-up time(how long until the instance is ready to use).

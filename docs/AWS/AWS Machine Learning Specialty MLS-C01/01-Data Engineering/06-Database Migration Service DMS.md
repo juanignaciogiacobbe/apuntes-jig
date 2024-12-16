@@ -1,5 +1,5 @@
 
-!!! note Database Migration Service
+!!! note "Database Migration Service"
 > - Quickly and securely migrate databases to AWS, resilient, self healing.
 > - The source database remains available during the migration.
 > - Supports Homogeneous and Heterogeneous migrations.

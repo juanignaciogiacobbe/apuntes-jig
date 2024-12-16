@@ -1,5 +1,5 @@
 
-!!! note Canales
+!!! note "Canales"
 > Conectan un proceso emisor con un proceso receptor. Son sincrónicos o asincrónicos.
 > Tienen un nombre, son tipados y unidireccionales.
 
@@ -8,13 +8,13 @@
 ![[Programación Concurrente/img concu/Pasted image 20241004161230.png]]
 
 
-!!! note Selective Input
+!!! note "Selective Input"
 > Es una sintaxis permitida por los lenguajes que soportan canales.
 > Permite escuchar en varios canales de forma bloqueante y desbloquearse con el primero que recibe un mensaje.
 
 
 
-!!! note Remote Procedure Calls
+!!! note "Remote Procedure Calls"
 > Permiten al cliente ejecutar funciones en un servidor localizado en otro procesador.
 > - Se requiere la implementación de stubs en ambos extremos.
 > - Los stubs conforman interfaces remotas utilizadas para compilar cliente y servidor.
@@ -22,11 +22,11 @@
 > - Parameter marshalling.
 
 
-!!! warning Diferencia con otros modelos de concurrencia
+!!! warning "Diferencia con otros modelos de concurrencia"
 > "Do not communicate by sharing memory; instead, share memory by communicating" -> Básicamente con este modelo compartimos datos, y así nos comunicamos.
 
 
-!!! note Canales en Unix
+!!! note "Canales en Unix"
 > Unix provee Pipes y FIFOs para conectar dos procesos independientes, orientados a bytes.
 > 	- Los FIFOs poseen una representación en el [[Sistemas Operativos/File System|File System]].
 > Unix también provee colas de mensajes orientados a mensajes como unidades independientes.

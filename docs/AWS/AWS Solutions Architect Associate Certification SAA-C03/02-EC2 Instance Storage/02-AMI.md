@@ -1,5 +1,5 @@
 
-!!! note Amazon Machine Image(AMI)
+!!! note "Amazon Machine Image(AMI)"
 > - Customization of an [[AWS/Cloud Practitioner CLF-C02/02-Compute in the Cloud/01-Amazon Elastic Compute Cloud EC2|EC2]] instance. -> You add your own software, configuration, OS, monitoring.. -> Faster boot / configuration time because all your software is prepackaged.
 > - AMI are built for a specific region(and can be copied across regions).
 

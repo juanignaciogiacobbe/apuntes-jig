@@ -12,12 +12,12 @@
 	- Locks de escritura o `exclusive locks`: Solo un proceso a la vez puede tener cualquier tipo de lock.
 
 
-!!! warning Condiciones para poder tomar un lock
+!!! warning "Condiciones para poder tomar un lock"
 > - Para un *shared lock*, el proceso debe esperar hasta que sean liberados todos los *exclusive locks*.
 > - Para poder tomar un *exclusive lock*, el proceso debe esperar hasta que sean liberados todos los locks(de ambos tipos).
 
 
-!!! warning Pasos para establecer un lock
+!!! warning "Pasos para establecer un lock"
 > 1. Abrir el archivo a lockear,
 > 2. Aplicar el lock.
 > 	1. Mediante `fcntl()` -> Se completan los campos del `struct flock`.
@@ -44,6 +44,6 @@ fn write(&self) -> LockResult<RwLockWriteGuard<T>>
 - Una vez obtenido el lock, se puede acceder al valor protegido.
 
 
-!!! warning Locks envenenados
+!!! warning "Locks envenenados"
 > Cuando un thread toma un thread de forma exclusiva(write lock) y mientras tiene tomado el lock, ejecuta `panic!`.
 > Las llamadas posteriores a `read()` y `write()` sobre el mismo lock, devolverán `Error`.

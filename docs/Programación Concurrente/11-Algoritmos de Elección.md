@@ -1,5 +1,5 @@
 
-!!! warning Introducción y algunas suposiciones
+!!! warning "Introducción y algunas suposiciones"
 > Varios algoritmos requieren de un coordinador con un rol especial -> En general, no es importante cuál es el proceso, sino que debe cubrirse el rol.
 > - Se busca que cualquier Host tenga la capacidad de ser el líder -> Si un líder se cae, queremos que algún otro Host pueda tomar su rol.
 > - Se asume que todos los procesos tienen un ID único, se ejecuta un proceso por máquina y conocen el número de los demás procesos.

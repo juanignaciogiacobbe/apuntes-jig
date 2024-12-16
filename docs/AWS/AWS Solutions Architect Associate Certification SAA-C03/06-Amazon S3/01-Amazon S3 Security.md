@@ -14,14 +14,14 @@
 
 # S3 Bucket Policies
 
-!!! note JSON Based Policies
+!!! note "JSON Based Policies"
 > - Resources: Buckets and Objects.
 > - Effect: Allow or Deny.
 > - Actions: Set o API to Allow or Deny.
 > - Principal: The account or user to apply the policy to.
 
 
-!!! warning Use S3 Bucket for Policy to:
+!!! warning "Use S3 Bucket for Policy to:"
 - Grant public access to the bucket.
 - Force objects to be encrypted at upload.
 - Grant access to another account(Cross account).

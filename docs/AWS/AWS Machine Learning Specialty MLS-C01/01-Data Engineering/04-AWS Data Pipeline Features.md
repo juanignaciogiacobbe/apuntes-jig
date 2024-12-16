@@ -1,5 +1,5 @@
 
-!!! note AWS Data Pipeline
+!!! note "AWS Data Pipeline"
 > - Destinations include [[AWS/Cloud Practitioner CLF-C02/05-Storage and Databases/01-Amazon Simple Storage Service S3|S3]], [[AWS/Cloud Practitioner CLF-C02/05-Storage and Databases/02-Amazon Relational Database Service RDS|RDS]], DynamoDB, Redshift and EMR.
 > - Manages task dependencies.
 > - Retries and notifies on failures.
@@ -8,7 +8,7 @@
 
 ![[AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204114531.png]]
 
-!!! warning AWS Data Pipeline VS Glue 
+!!! warning "AWS Data Pipeline VS Glue "
 - Glue:
 	- Glue ETL -> Run Apache Spark code, Scala or Python based, focus on the ETL.
 	- Glue ETL -> Do not worry about configuring or managing the resources.

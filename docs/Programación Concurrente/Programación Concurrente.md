@@ -9,7 +9,7 @@
 
 
 
-!!! note Modelos de Concurrencia
+!!! note "Modelos de Concurrencia"
 > Especifican cómo los threads colaboran entre sí para completar tareas que les son asignadas. Según el modelo, se comunican y trabajan de formas distintas.
 > - [[Programación Concurrente/02-Modelo Fork Join|02-Modelo Fork Join]]
 > - [[Programación Concurrente/03-Programación Asincrónica|03-Programación Asincrónica]]

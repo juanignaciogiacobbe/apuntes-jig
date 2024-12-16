@@ -1,5 +1,5 @@
 
-!!! note Semáforos
+!!! note "Semáforos"
 > Es un mecanismo de sincronización, implementado como una construcción de programación concurrente de mas alto nivel.
 > Es un tipo de dato compuesto por dos campos:
 > - Un entero no negativo llamado *V*.
@@ -74,7 +74,7 @@ fn release(&self)
 ---
 
 
-!!! note Barreras en Rust
+!!! note "Barreras en Rust"
 > Permiten sincronizar varios threads en puntos determinados de un cálculo o algoritmo.
 > Son reutilizables automáticamente.
 
@@ -85,18 +85,18 @@ fn release(&self)
 
 ---
 
-!!! note Condvar
+!!! note "Condvar"
 > - No guarda ningún valor.
 > - Tiene asociado un FIFO.
 > - 3 operaciones atómicas: `waitC(cond)`, `signalC(cond)`, `empty(cond)`.
 
 ---
 
-!!! note Monitores
+!!! note "Monitores"
 > Permiten a los hilos tener exclusión mutua y la posibilidad de esperar(`block`) a que una condición se vuelva falsa. -> Tienen un mecanismo para señalizar otros hilos cuando su condición se cumple.
 
 
-!!! warning Los procesos pueden...
+!!! warning "Los procesos pueden..."
 - Esperar para entrar al monitor.
 - Ejecutar el monitor(solo un proceso a la vez -> Exclusión mutua).
 - Estar bloqueado en FIFO de variable de condición.
