@@ -10,7 +10,7 @@
 	- Client-Side Encryption.
 
 
-!!! important Server Side Encryption-S3
+!!! note Server Side Encryption-S3
 > - Encryption using keys handled, managed, and owned by AWS.
 > - Object is encrypted server-side,
 > - Encryption type is AES-256.
@@ -21,7 +21,7 @@
 
 ---
 
-!!! important Server-Side Encryption-KMS
+!!! note Server-Side Encryption-KMS
 > - Encryption using keys handled and managed by AWS KMS.
 > - Advantages: User control + Audit key usage using CloudTrail.
 > - Objects is encrypted server side.
@@ -39,7 +39,7 @@
 ---
 
 
-!!! important Server-Side Encryption-C
+!!! note Server-Side Encryption-C
 > - Server-Side encryption using keys fully managed by the customer outside of AWS.
 > - Amazon S3 DOES NOT store the encryption key you provide.
 > - HTTPS must be used.

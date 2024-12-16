@@ -1,5 +1,5 @@
 
-!!! important Relational Databases
+!!! note Relational Databases
 > - **Data is stored in a way that relates it to other pieces of data**.
 > - Relational databases use **structured query language (SQL)** to store and query data. **This approach allows data to be stored in an easily understandable, consistent, and scalable way**.
 
@@ -32,7 +32,7 @@
 
 ---
 
-!!! important RDS Storage Auto Scaling
+!!! note RDS Storage Auto Scaling
 > - Helps you increase storage on your RDS DB instance dynamically.
 > - When RDS detects you are running out of free database storage, it scales automatically.
 > - Avoid manually scaling your database storage.

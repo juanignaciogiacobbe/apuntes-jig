@@ -1,5 +1,5 @@
 
-!!! important Amazon Elastic Compute Cloud(EC2)
+!!! note Amazon Elastic Compute Cloud(EC2)
 > - Allows you to **rent and manage virtual servers in the Cloud**(Infrastructure as a Service). -> Provides secure, resizable compute capacity in the Cloud.
 > 	- Provision and launch an Amazon EC2 instance within minutes.
 > 	- Stop using it when you have finished running a workload.
@@ -24,7 +24,7 @@
 
 ---
 
-!!! important EC2 Instance Types
+!!! note EC2 Instance Types
 > - Each EC2 instance type is grouped under an instance family.
 > - They offer varying combinations of CPU, memory, storage and networking capacity.
 
@@ -70,7 +70,7 @@
 
 ---
 
-!!! important EC2 User Data
+!!! note EC2 User Data
 > It is possible to bootstrap our instances using an EC2 User Data script.
 > - That script is only run once at the instance first start(runs with the root user).
 > - Is used to automate boot tasks such as installing updates and software, downloading common files from the [[Redes/Chapter 1/01-Internet|Internet]], ...

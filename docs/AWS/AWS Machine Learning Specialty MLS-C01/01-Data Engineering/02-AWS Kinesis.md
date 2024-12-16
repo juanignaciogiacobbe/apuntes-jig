@@ -1,5 +1,5 @@
 
-!!! important AWS Kinesis
+!!! note AWS Kinesis
 > - Is a managed alternative to Apache Kafka.
 > - Great for application logs, metrics, IoT, clickstreams.
 > - Great for "real-time" big data.
@@ -11,7 +11,7 @@
 ---
 
 
-!!! important Kinesis Streams
+!!! note Kinesis Streams
 > Low latency streaming ingest at scale.
 > - Streams are divided in ordered Shards/Partitions.
 > - Data retention is 24 hours by default, can go up to 365 days.
@@ -39,7 +39,7 @@
 ---
 
 
-!!! important Kinesis Analytics
+!!! note Kinesis Analytics
 > Perform real-time analytics on streams using SQL.
 > - Pay only for resources consumed(but it's not cheap).
 > - Serverless: Scale automatically.
@@ -73,7 +73,7 @@
 ---
 
 
-!!! important Kinesis Firehose
+!!! note Kinesis Firehose
 > - Fully managed service, no administration.
 > - Near Real Time(Buffer based on time and size, optionally can be disabled).
 > - Data Ingestion into Redshift/ [[AWS/Cloud Practitioner CLF-C02/05-Storage and Databases/01-Amazon Simple Storage Service S3|Amazon S3]], ElasticSearch / Splunk.
@@ -89,7 +89,7 @@
 ---
 
 
-!!! important Kinesis Video Streams
+!!! note Kinesis Video Streams
 > Meant for streaming video in real-time.
 
 ![[AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204104618.png]]

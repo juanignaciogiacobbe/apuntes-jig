@@ -1,5 +1,5 @@
 
-!!! important Domain Name System(DNS)
+!!! note Domain Name System(DNS)
 > - Translates the human friendly hostnames into the machine IP addresses.
 > - Is the backbone of the [[Redes/Chapter 1/01-Internet|Internet]].
 > - It uses hierarchical naming structure.
@@ -18,7 +18,7 @@
 
 
 
-!!! important Amazon Route 53
+!!! note Amazon Route 53
 > - Highly available, scalable, fully managed and Authoritative(You can update the DNS records) DNS.
 > - Is also a Domain Registrar.
 > - Ability to check the health of your resources.

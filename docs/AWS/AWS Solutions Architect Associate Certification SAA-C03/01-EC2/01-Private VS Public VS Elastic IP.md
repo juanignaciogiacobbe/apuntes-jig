@@ -16,7 +16,7 @@
 	- Only a specified range of IPs can be used as private IP.
 
 
-!!! important Elastic IPs
+!!! note Elastic IPs
 > - When you stop and then start an [[AWS/Cloud Practitioner CLF-C02/02-Compute in the Cloud/01-Amazon Elastic Compute Cloud EC2|EC2]] instance, it can change its public IP.
 > - If you need to have a fixed public IP for your instance, you need an Elastic IP.
 > - An Elastic IP is a public IPv4 IP you own as long as you don't delete it.

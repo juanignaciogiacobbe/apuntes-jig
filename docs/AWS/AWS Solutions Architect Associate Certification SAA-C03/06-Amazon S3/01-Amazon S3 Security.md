@@ -14,7 +14,7 @@
 
 # S3 Bucket Policies
 
-!!! important JSON Based Policies
+!!! note JSON Based Policies
 > - Resources: Buckets and Objects.
 > - Effect: Allow or Deny.
 > - Actions: Set o API to Allow or Deny.

@@ -1,5 +1,5 @@
 
-!!! important Object Storage
+!!! note Object Storage
 > - **Each object consists of data, metadata, and a key**. -> An object’s **key** is its unique identifier.
 > - When you modify a file in block storage, only the pieces that are changed are updated. When a file in object storage is modified, the entire object is updated.
 > - The **data** might be an image, video, text document, or any other type of file. 
@@ -9,7 +9,7 @@
 
 ---
 
-!!! important Amazon Simple Storage Service(S3)
+!!! note Amazon Simple Storage Service(S3)
 > - It's advertised as a "infinitely scaling" storage.
 > - Provides **object-level storage**. -> **S3 stores data as objects in buckets**. 
 > - Buckets must have a globally unique name(across all Regions all accounts). -> Are defined at the Region level.
@@ -32,7 +32,7 @@
 - Static Website.
 
 
-!!! important Amazon S3 Static Website Hosting
+!!! note Amazon S3 Static Website Hosting
 > S3 can host static websites and have them accesible on the [[Redes/Chapter 1/01-Internet|Internet]].
 > - If you get a 403 Forbidden error, make sure the Bucket Policy allows public reads.
 
@@ -50,7 +50,7 @@
 
 ---
 
-!!! important Amazon S3 Replication(CRR & SRR)
+!!! note Amazon S3 Replication(CRR & SRR)
 - Must enable Versioning in source and destination buckets.
 - Cross-Region Replication(CRR). -> Compliance, lower latency access, replication across accounts
 - Same-Region Replication(SRR). -> Log aggregation, live replication between production and test accounts.

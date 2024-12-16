@@ -1,5 +1,5 @@
 
-!!! important AWS Data Pipeline
+!!! note AWS Data Pipeline
 > - Destinations include [[AWS/Cloud Practitioner CLF-C02/05-Storage and Databases/01-Amazon Simple Storage Service S3|S3]], [[AWS/Cloud Practitioner CLF-C02/05-Storage and Databases/02-Amazon Relational Database Service RDS|RDS]], DynamoDB, Redshift and EMR.
 > - Manages task dependencies.
 > - Retries and notifies on failures.

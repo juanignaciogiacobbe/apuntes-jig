@@ -1,5 +1,5 @@
 
-!!! important AWS Step Functions
+!!! note AWS Step Functions
 > - Use to design workflows.
 > - Easy visualizations.
 > - Advanced Error Handling and Retry mechanism outside the code.

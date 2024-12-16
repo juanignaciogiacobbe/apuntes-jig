@@ -1,5 +1,5 @@
 
-!!! important Scalability
+!!! note Scalability
 > Involves beginning with only the resources you need and designing your architecture to automatically respond to changing demand by scaling out or in. 
 > - You don’t have to worry about a lack of computing capacity to meet your customers’ needs.
 
@@ -17,7 +17,7 @@
 > - Enables you to automatically add or remove Amazon EC2 instances in response to changing application demand. -> You can maintain a greater sense of application availability.
 
 
-!!! important Auto Scaling Group
+!!! note Auto Scaling Group
 > - Scale out to match an increased load.
 > - Scale in to match a decreased load.
 > - Ensure we have a minimum and a maximum number of EC2 instances running.
@@ -45,7 +45,7 @@
 
 
 
-!!! important Auto Scaling Instance Refresh
+!!! note Auto Scaling Instance Refresh
 > Update launch template and then re-creating all EC2 instances.
 > - Setting of minimum healthy percentage.
 > - Specify warm-up time(how long until the instance is ready to use).

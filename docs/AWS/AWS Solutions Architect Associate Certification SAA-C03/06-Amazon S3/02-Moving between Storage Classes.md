@@ -9,7 +9,7 @@
 
 
 
-!!! important Amazon S3 Lifecycle Rules
+!!! note Amazon S3 Lifecycle Rules
 > - Transition Actions: Configure objects to transition to another storage class
 > 	- Move objects to Standard IA class 60 days after creation.
 > 	- Move to Glacier for archiving after 6 months.
@@ -20,7 +20,7 @@
 > - Rules can be created to a certain Prefix or for certain objects Tags.
 
 
-!!! important Amazon S3 Analytics - Storage Class Analysis
+!!! note Amazon S3 Analytics - Storage Class Analysis
 > - Help you decide when to transition objects to the right storage class.
 > - Recommendations for Standard and Standard IA(Does NOT work for One-Zone IA or Glacier).
 > - Report is updated daily.

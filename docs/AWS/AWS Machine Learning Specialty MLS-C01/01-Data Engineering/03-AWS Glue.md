@@ -1,5 +1,5 @@
 
-!!! important Glue Data Catalog
+!!! note Glue Data Catalog
 > - Metadata repository for all your tables:
 > 	- Automated Schema Inference.
 > 	- Schemas are versioned.
@@ -8,7 +8,7 @@
 
 ![[AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204112708.png]]
 
-!!! important Glue Data Catalog Crawlers
+!!! note Glue Data Catalog Crawlers
 > Crawlers goes through your data to infer schemas and partitions.
 > - Works JSON, Parquet, CSV, relational store.
 > - Crawlers work for [[AWS/Cloud Practitioner CLF-C02/05-Storage and Databases/01-Amazon Simple Storage Service S3|S3]], Redshift, [[AWS/Cloud Practitioner CLF-C02/05-Storage and Databases/02-Amazon Relational Database Service RDS|Amazon RDS]].
@@ -22,7 +22,7 @@
 ---
 
 
-!!! important Glue ETL
+!!! note Glue ETL
 > - Transform data, Clean Data, Enrich Data(before doing analysis).
 > 	- Generate ETL code in Python or Scala, you can modify the code.
 > 	- Can provide your own Spark or PySpark scripts.
@@ -44,7 +44,7 @@
 
 ---
 
-!!! important AWS Glue DataBrew
+!!! note AWS Glue DataBrew
 > - Allows you to clean and normalize data without writing any code.
 > - Reduce ML and analytics data preparation time by up to 80%.
 > - Data sources include [[AWS/Cloud Practitioner CLF-C02/05-Storage and Databases/01-Amazon Simple Storage Service S3|S3]], Redshift, [[AWS/AWS Solutions Architect Associate Certification SAA-C03/03-RDS, Aurora & ElastiCache/03-Amazon Aurora|Aurora]], Glue Data Catalog, ...

@@ -1,5 +1,5 @@
 
-!!! important Availability Zones
+!!! note Availability Zones
 > - Single data center or a group of data centers within a Region. -> Collection of data centers.
 > - Data center -> Contains multiple **servers**: physical compute hardware running in a data center.
 > - Availability Zones are located tens of miles apart from each other. This is close enough to have low latency (the time between when content requested and received) between Availability Zones. 

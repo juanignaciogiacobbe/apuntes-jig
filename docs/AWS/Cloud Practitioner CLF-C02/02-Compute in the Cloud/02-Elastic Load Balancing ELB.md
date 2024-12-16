@@ -1,5 +1,5 @@
 
-!!! important Load Balancers
+!!! note Load Balancers
 > Servers that forward traffic to multiple servers downstream.
 
 ![[AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241202103316.png]]
@@ -16,7 +16,7 @@
 - Separate public traffic from private traffic.
 
 
-!!! important Health Checks
+!!! note Health Checks
 > - Enable the Load Balancer to know if instances it forwards traffic to are available to reply to requests.
 > - Is done on a port and a route(`/health` is common).
 > - If the response is not 200(OK), then the instance is unhealthy.
@@ -26,7 +26,7 @@
 
 ---
 
-!!! important Directing Traffic with Elastic Load Balancing
+!!! note Directing Traffic with Elastic Load Balancing
 > Automatically distributes incoming application traffic across multiple resources, such as [[EC2)](AWS/Cloud Practitioner CLF-C02/02-Compute in the Cloud/01-Amazon Elastic Compute Cloud EC2.md|Amazon Elastic Compute Cloud(EC2)]].
 > - A load balancer acts as a single point of contact for all incoming web traffic to your Auto Scaling group.
 > - As you add or remove Amazon EC2 instances in response to the amount of incoming traffic, these requests route to the load balancer first.
@@ -50,7 +50,7 @@
 ---
 
 
-!!! important Sticky Sessions(Session Affinity)
+!!! note Sticky Sessions(Session Affinity)
 > The same Client is always redirected to the same instance behind a Load Balancer.
 > - Works for Classic, Application and Network Load Balancers.
 > - Use Case: Make sure the User doesn't lose his session data.
