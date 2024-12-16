@@ -1,0 +1,15 @@
+# Storage and Databases
+
+- [13-Instance Stores](AWS/Cloud%20Practitioner%20(CLF-C02)/05-Storage%20and%20Databases/13-Instance%20Stores.md)
+- [14A-Object Storage](AWS/Cloud%20Practitioner%20(CLF-C02)/05-Storage%20and%20Databases/14A-Object%20Storage.md)
+- [01-Amazon Simple Storage Service(S3)](AWS/Cloud%20Practitioner%20(CLF-C02)/05-Storage%20and%20Databases/01-Amazon%20Simple%20Storage%20Service(S3).md)
+- [15A-File Storage](AWS/Cloud%20Practitioner%20(CLF-C02)/05-Storage%20and%20Databases/15A-File%20Storage.md)
+- [15B-Amazon Elastic File System(EFS)](AWS/Cloud%20Practitioner%20(CLF-C02)/05-Storage%20and%20Databases/15B-Amazon%20Elastic%20File%20System(EFS).md)
+- [16A-Relational Databases](AWS/Cloud%20Practitioner%20(CLF-C02)/05-Storage%20and%20Databases/16A-Relational%20Databases.md)
+- [02-Amazon Relational Database Service(RDS)](AWS/Cloud%20Practitioner%20(CLF-C02)/05-Storage%20and%20Databases/02-Amazon%20Relational%20Database%20Service(RDS).md)
+- [17A-Nonrelational Databases](AWS/Cloud%20Practitioner%20(CLF-C02)/05-Storage%20and%20Databases/17A-Nonrelational%20Databases.md)
+- [17B-Amazon DynamoDB](AWS/Cloud%20Practitioner%20(CLF-C02)/05-Storage%20and%20Databases/17B-Amazon%20DynamoDB.md)
+- [18-Amazon Redshift](AWS/Cloud%20Practitioner%20(CLF-C02)/05-Storage%20and%20Databases/18-Amazon%20Redshift.md)
+- [19-AWS Database Migration Service(AWS DMS)](AWS/Cloud%20Practitioner%20(CLF-C02)/05-Storage%20and%20Databases/19-AWS%20Database%20Migration%20Service(AWS%20DMS).md)
+- [20-Additional Database Services](AWS/Cloud%20Practitioner%20(CLF-C02)/05-Storage%20and%20Databases/20-Additional%20Database%20Services.md)
+- [20B-Amazon Athena](AWS/Cloud%20Practitioner%20(CLF-C02)/05-Storage%20and%20Databases/20B-Amazon%20Athena.md)
