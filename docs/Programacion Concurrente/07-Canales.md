@@ -1,3 +1,4 @@
+# Canales
 
 !!! note "Canales"
 > Conectan un proceso emisor con un proceso receptor. Son sincrónicos o asincrónicos.

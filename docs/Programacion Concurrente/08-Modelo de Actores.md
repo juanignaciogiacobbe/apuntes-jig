@@ -1,3 +1,4 @@
+# Modelo de Actores
 
 !!! note "Actor"
 > Es la primitiva principal del modelo. Son livianos, se pueden crear miles(en lugar de threads), encapsulan comportamiento y estado.

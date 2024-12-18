@@ -1,3 +1,4 @@
+# Algoritmos de Elección
 
 !!! warning "Introducción y algunas suposiciones"
 > Varios algoritmos requieren de un coordinador con un rol especial -> En general, no es importante cuál es el proceso, sino que debe cubrirse el rol.

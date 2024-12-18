@@ -1,3 +1,4 @@
+# Ambientes Distribuidos
 
 !!! note "Entidades"
 > Es la unidad de cómputo de ambiente informático distribuido.

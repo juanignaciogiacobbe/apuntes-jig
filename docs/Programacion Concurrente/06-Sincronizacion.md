@@ -1,3 +1,4 @@
+# Sincronización
 
 !!! note "Semáforos"
 > Es un mecanismo de sincronización, implementado como una construcción de programación concurrente de mas alto nivel.

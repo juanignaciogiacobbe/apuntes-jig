@@ -1,3 +1,4 @@
+# Introducción
 
 !!! note "Programa"
 > Conjunto de datos, asignaciones e instrucciones de control de flujo que compilan a instrucciones de máquina, las cuales se ejecutan secuencialmente en un procesador y acceden a datos almacenados en memoria principal o memorias secundarias.

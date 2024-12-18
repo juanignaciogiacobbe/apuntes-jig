@@ -1,3 +1,4 @@
+# Redes de Petri
 
 !!! note "Redes de Petri"
 > Herramienta para modelar concurrencia y sincronización en sistemas distribuidos. 

@@ -1,3 +1,4 @@
+# Detección de Deadlocks
 
 !!! note "Deadlocks"
 > Cuando dos o más procesos o hilos en un sistema no pueden continuar con su ejecución, debido a que cada uno de ellos se queda esperando a que otro libere un recurso que necesita. Aquí se genera un ciclo, ya que los procesos no pueden avanzar: Cada uno está esperando a que el otro libere el recurso requerido. Para que se produzca un deadlock tienen que cumplirse los siguientes 4 requisitos:

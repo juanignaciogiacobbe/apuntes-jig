@@ -1,4 +1,5 @@
-# Modelo de Transacciones
+# Transacciones
+## Modelo de Transacciones
 - El sistema está conformado por un conjunto de procesos independientes -> Cada uno puede fallar aleatoriamente.
 - Los errores en la comunicación son manejados transparentemente por la capa de comunicación.
 - Storage estable:
@@ -6,7 +7,7 @@
 	- La probabilidad de perder los datos es extremadamente pequeña.
 
 
-## Primitivas
+### Primitivas
 - `BEGIN TRANSACTION`: Marca el inicio de la transacción.
 - `END TRANSACTION`: Finaliza la transacción e intenta hacer commit.
 - `ABORT TRANSACTION`: Finaliza forzadamente la transacción y restaura los valores anteriores.

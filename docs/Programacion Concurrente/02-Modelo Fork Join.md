@@ -1,3 +1,4 @@
+# Modelo Fork Join
 
 !!! note "Fork-Join"
 > Es un modelo de paralelización donde el cómputo(task) es partido en sub-cómputos menores(sub-tasks). Los resultados de estos se unen(join) para construir la solución al cómputo inicial.

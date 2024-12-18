@@ -1,6 +1,5 @@
 # Repaso de [[Redes/Redes|Redes]]
 
-
 !!! warning "Tipos de servicio ofrecidos por las Capas"
 - Sin conexión: Los datos se envían al receptor y no hay control de flujo ni de errores.
 - Sin conexión con ACK: Por cada dato recibido, el receptor envía un acuse de recibo conocido por ACK.

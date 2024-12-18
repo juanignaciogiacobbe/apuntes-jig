@@ -1,4 +1,5 @@
-# Problema de la Sección Crítica
+# Corrección
+## Problema de la Sección Crítica
 - En [[Sistemas Operativos/Proceso|procesos]], es suficiente con debuggear para encontrar errores, ya que ante una misma entrada se obtiene siempre la misma salida.
 - En programas concurrentes, la salida puede depender del escenario que resultó en la ejecución.
 - El problema de la sección crítica consiste en lo siguiente:
