@@ -1,3 +1,3 @@
 # Holaaaaa
 
-[[docs/Programacion Concurrente/index|concu]]
+[[docs/Programacion Concurrente/index|Programación Concurrente]]
