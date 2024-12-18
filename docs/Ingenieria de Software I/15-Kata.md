@@ -10,4 +10,4 @@
 2. No puedes escribir más de un único test unitario, con el suficiente código para hacerlo fallar (error de compilación es fallo).
 3. Solo puedes escribir código de producción para hacer pasar el único test fallido.
 
-![](Pasted%20image%2020240927082544.png)
+![[Pasted image 20240927082544.png]]

@@ -1,6 +1,6 @@
 # Pirámide de Decisión Organizacional
 
-![](Pasted%20image%2020241006084744.png)
+![[Pasted image 20241006084744.png]]
 
 
 !!! note "Nivel Superior o Estratégico"

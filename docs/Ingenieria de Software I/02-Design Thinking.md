@@ -5,12 +5,12 @@
 
 ## Instancias del Design Thinking
 1. **Empatizamos**(exploración del contexto): Profunda comprensión de las necesidades. Investigación cuali/cuantitativa.
-2. **Definimos**(detectamos oportunidades): Patrones de conducta, insights y oportunidades de [Innovación](05-Innovación.md).
+2. **Definimos**(detectamos oportunidades): Patrones de conducta, insights y oportunidades de [[05-Innovación|Innovación]].
 3. **Ideamos**: Proponemos soluciones según el contexto y las necesidades. Pensamiento lateral y creativo. Brainstorming.
 4. **Prototipamos**: Seleccionamos la idea con la mejor propuesta de valor, y la convertimos en un prototipo.
 5. **Testeamos**: Hacemos parte al usuario, y co-creamos en base a la prueba y error.
 
-![](Pasted%20image%2020240925145736.png)
+![[Pasted image 20240925145736.png]]
 
 - Reduce el riesgo.
 - Mejora la calidad.

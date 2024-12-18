@@ -16,4 +16,4 @@
 > - Un diseño de las tablas de una base de datos.
 > - Un diseño de las clases a desarrollar.
 
-![](Pasted%20image%2020240928105251.png)
+![[Pasted image 20240928105251.png]]

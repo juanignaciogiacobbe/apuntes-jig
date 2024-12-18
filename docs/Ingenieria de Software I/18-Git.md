@@ -37,7 +37,7 @@
 > - Es atómico -> Una sola razón para todo lo que cambió, y no depende de cambios externos.
 > - Explica -> Razones que no resultan obvias del resumen, y efectos de los cambios que no resultan obvios al ver el código.
 
-![](Pasted%20image%2020241127161616.png)
+![[Pasted image 20241127161616.png]]
 
 !!! note "Branches a largo plazo"
 > Lo mejor es evitarlas:
@@ -49,7 +49,7 @@
 > 	- Esos cambios son más recientes.
 > 	- Evitamos duplicar trabajo.
 
-![](Pasted%20image%2020241127161928.png)
+![[Pasted image 20241127161928.png]]
 
 
 !!! note "Branches de Entorno"
@@ -75,7 +75,7 @@
 > Cada commit tiene ancestros. Su contenido está relacionado al contenido de sus ancestros.
 > Se tiene como requisito que no se generen ciclos.
 
-![](Pasted%20image%2020241127160524.png)
+![[Pasted image 20241127160524.png]]
 
 
 
@@ -88,14 +88,14 @@
 > - Cuesta separar de líneas de trabajo.
 > - El problema principal es que el control de versiones es naturalmente distribuido(pero también concurrente).
 
-![](Pasted%20image%2020241127160752.png)
+![[Pasted image 20241127160752.png]]
 
 
 !!! note "Feature Branches"
 > - Una branch por funcionalidad de código independiente. 
 > - Usualmente, 1 funcionalidad de usuario ~ N features.
 
-![](Pasted%20image%2020241127160917.png)
+![[Pasted image 20241127160917.png]]
 
 
 !!! warning "Ventajas"
@@ -113,14 +113,14 @@
 > - Las verificaciones se hacen dentro de cada PR.
 > - Software con despliegues simples, rápidos y baratos.
 
-![](Pasted%20image%2020241127162704.png)
+![[Pasted image 20241127162704.png]]
 
 
 !!! note "Git Flow"
 > - La verificación se hace al preparar cada release
 > - Software con despliegues complejos, lentos y caros.
 
-![](Pasted%20image%2020241127162844.png)
+![[Pasted image 20241127162844.png]]
 
 ---
 

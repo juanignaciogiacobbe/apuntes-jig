@@ -6,7 +6,7 @@
 
 !!! note "Infrastructure as Code"
 > - En lugar de realizar modificaciones manualmente, se usa un lenguaje de programación específico para el dominio de configuraciones de máquinas.
-> - Ejemplo: [Terraform](Terraform%20Fundamentals/01-Fundamentals/01-What%20is%20Terraform.md).
+> - Ejemplo: [[01-What is Terraform|Terraform]].
 > - Suelen ser declarativas(qué objetivo lograr) e imperativas(cómo lograr dicho objetivo)-> Nos abstraemos del estado actual.
 
 
@@ -38,7 +38,7 @@ El ecosistema Docker asume que los contenedores son livianos:
 
 # Containers VS Virtual Machines
 
-![](Pasted%20image%2020241126170440.png)
+![[Pasted image 20241126170440.png]]
 
 
 !!! note "Orquestadores"

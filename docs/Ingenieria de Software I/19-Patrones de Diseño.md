@@ -9,7 +9,7 @@
 > - El contexto se vuelve independiente de las estrategias concretas, así que puedes añadir nuevos algoritmos o modificar los existentes sin cambiar el código de la clase contexto o de otras estrategias.
 
 
-![](Pasted%20image%2020241127181817.png)
+![[Pasted image 20241127181817.png]]
 
 
 !!! warning "Ventajas"
@@ -33,7 +33,7 @@
 > 	- Los _pasos abstractos_ deben ser implementados por todas las subclases
 > 	- Los _pasos opcionales_ ya tienen cierta implementación por defecto, pero aún así pueden sobrescribirse si es necesario
 
-![](Pasted%20image%2020241210160024.png)
+![[Pasted image 20241210160024.png]]
 
 
 !!! warning "Ventajas"
@@ -58,7 +58,7 @@
 > Es un patrón creacional que nos permite producir familias de objetos relacionados sin especificar sus clases concretas.
 > - El código cliente tiene que funcionar con fábricas y productos a través de sus respectivas interfaces abstractas. Esto nos permite cambiar el tipo de fábrica que pasamos al código cliente, así como la variante del producto que recibe el código cliente, sin descomponer el propio código cliente.
 
-![](Pasted%20image%2020241209094001.png)
+![[Pasted image 20241209094001.png]]
 
 
 !!! warning "Ventajas"
@@ -79,7 +79,7 @@
 > - Busca abstraer el proceso de creación de diferentes tipos de objeto.
 > - El foco es qué objeto crear.
 
-![](Pasted%20image%2020241127182244.png)
+![[Pasted image 20241127182244.png]]
 
 
 !!! note "Builder"
@@ -88,7 +88,7 @@
 > - Para crear un objeto, se ejecuta una serie de estos pasos en un objeto constructor. -> No necesitas invocar todos los pasos. Puedes invocar sólo aquellos que sean necesarios para producir una configuración particular de un objeto.
 > - Busca resolver múltiples opciones y parámetros opcionales. -> El foco es cómo crear el objeto de forma flexible y paso a paso.
 
-![](Pasted%20image%2020241201095637.png)
+![[Pasted image 20241201095637.png]]
 
 
 !!! warning "Builder VS Setters"
@@ -104,7 +104,7 @@
 > Es un patrón estructural que permite añadir funcionalidades a objetos colocando estos objectos dentro de otros objetos encapsuladores especiales que contienen estas funcionalidades.
 > - Un _wrapper_ es un objeto que puede vincularse con un objeto _objetivo_. El wrapper contiene el mismo grupo de métodos que el objetivo y le delega todas las solicitudes que recibe. No obstante, el wrapper puede alterar el resultado haciendo algo antes o después de pasar la solicitud al objetivo.
 
-![](Pasted%20image%2020241209094758.png)
+![[Pasted image 20241209094758.png]]
 
 
 !!! warning "Decorator VS Herencia"
@@ -117,13 +117,13 @@
 > Es un patrón creacional que nos permite asegurarnos de que una clase tenga una única instancia, a la vez que proporciona un punto de acceso global a dicha instancia.
 > - Al igual que una variable global, el patrón Singleton nos permite acceder a un objeto desde cualquier parte del programa. No obstante, también evita que otro código sobreescriba esa instancia. -> Vulnera el Single Responsibility Principle.
 
-![](Pasted%20image%2020241209095336.png)
+![[Pasted image 20241209095336.png]]
 
 
 !!! note "Command"
 > Es un patrón de comportamiento que convierte una solicitud en un objeto independiente que contiene toda la información sobre la solicitud -> Permite parametrizar los métodos con diferentes solicitudes, retrasar o poner en cola la ejecución de una solicitud y soportar operaciones que no se pueden realizar.
 
-![](Pasted%20image%2020241209095947.png)
+![[Pasted image 20241209095947.png]]
 
 
 
@@ -137,4 +137,4 @@
 > - Strategy se enfoca en intercambiar diferentes algoritmos o métodos que logran el mismo objetivo.
 > - State gestiona diferentes comportamientos según el estado actual del objeto.
 
-![](Pasted%20image%2020241209101232.png)
+![[Pasted image 20241209101232.png]]

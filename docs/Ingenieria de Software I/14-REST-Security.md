@@ -22,7 +22,7 @@
 !!! note "Basic Auth"
 > Base64 encoding: Es fácilmente codificable, y se debería usar en conjunto con otro mecanismo de seguridad como HTTPS/SSL.
 
-![](Pasted%20image%2020240927155022.png)
+![[Pasted image 20240927155022.png]]
 
 
 !!! note "API Keys"
@@ -31,14 +31,14 @@
 > Se supone que las API keys son secretas y que solo el cliente y el servidor la conocen. 
 > Solo debería usarse en conjunto con otro mecanismo de seguridad como HTTPS/SSL.
 
-![](Pasted%20image%2020240927155218.png)
+![[Pasted image 20240927155218.png]]
 
 
 
 !!! note "Bearer Authentication/ Token Auth"
 > Utiliza tokens de seguridad llamados Bearer, que da acceso al portador del token.
 
-![](Pasted%20image%2020240927155330.png)
+![[Pasted image 20240927155330.png]]
 
 
 
@@ -47,7 +47,7 @@
 > Consiste en delegar la autenticacion de usuario al servicio que gestiona las cuentas, de modo que sea este quien otorgue el acceso para las aplicaciones de terceros.
 > OAuth2 provee un flujo de autorización para aplicaciones web, aplicaciones móviles e incluso programas de escritorio.
 
-![](Pasted%20image%2020240927155547.png)
+![[Pasted image 20240927155547.png]]
 
 
 !!! note "Autenticación y Autorización JWT"
@@ -57,18 +57,18 @@
 > El uso de JWT incrementa la eficiencia en las aplicaciones evitando hacer multiples llamadas a la base de datos.
 
 
-![](Pasted%20image%2020240927155816.png)
+![[Pasted image 20240927155816.png]]
 
-![](Pasted%20image%2020240927155929.png)
+![[Pasted image 20240927155929.png]]
 
 - Los JWT pueden ser mensajes solo firmados, solo encriptados, o ambos.
 - Si un token es solo firmado pero no encriptado, cualquiera puede leer su contenido, pero si no se conoce la clave privada no puede ser modificado, ya que al validar la firma no coincidiría.
-![](Pasted%20image%2020240927160053.png)
+![[Pasted image 20240927160053.png]]
 
 - El server valida la firma del JWT para saber que lo que él le envió al cliente no se modificó, y utiliza la información del mismo.
 - De esta forma se sigue siendo stateless, y generalmente se hace más eficiente la validación del usuario, sin tener que acceder a un medio persistente a validar si el token es válido y a quién pertenece el mismo.
 
-![](Pasted%20image%2020240927160235.png)
+![[Pasted image 20240927160235.png]]
 
 
 !!! note "Refresh Tokens"

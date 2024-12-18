@@ -23,7 +23,7 @@
 - Facilita la adaptación a cambios y valida los requisitos funcionales.
 - Gestiona la complejidad del sistema dividiendo la arquitectura en aspectos específicos.
 
-![](Pasted%20image%2020240925163648.png)
+![[Pasted image 20240925163648.png]]
 
 
 !!! note "Vista Lógica"
@@ -31,7 +31,7 @@
 > - El sistema se descompone en abstracciones clave, en forma de objetos o clases a partir del dominio del problema. -> Se aplican los principios de abstracción, encapsulamiento y herencia.
 > - Se busca identificar mecanismos y elementos de diseño comunes a diversas partes del sistema.
 
-![](Pasted%20image%2020241210131509.png)
+![[Pasted image 20241210131509.png]]
 
 
 
@@ -40,14 +40,14 @@
 > - Contempla también asuntos de concurrencia y distribución, integridad del sistema, y de la tolerancia a fallas.
 > - Especifica en qué hilo de control se ejecuta una operación de una clase definida en la vista lógica.
 
-![](Pasted%20image%2020241210131619.png)
+![[Pasted image 20241210131619.png]]
 
 
 !!! note "Vista de Desarrollo(o Componentes)"
 > Se centra en la organización real de los módulos de software en el ambiente del desarrollo de software.
 > - Tiene en cuenta los requisitos internos relativos a la facilidad de desarrollo, administración del software, reutilización y elementos comunes, y restricciones impuestas por las herramientas o el lenguaje de programación que se use.
 
-![](Pasted%20image%2020241210131641.png)
+![[Pasted image 20241210131641.png]]
 
 
 
@@ -57,7 +57,7 @@
 > - Toma los requisitos no funcionales como la disponibilidad, confiabilidad, performance y escalabilidad.
 > - El software se ejecuta sobre una red de computadoras o nodos de procesamiento. Los nodos se relacionan con elementos identificados en las vistas anteriores.
 
-![](Pasted%20image%2020241210131842.png)
+![[Pasted image 20241210131842.png]]
 
 
 !!! note "Vista de Escenario"
@@ -65,6 +65,6 @@
 > - Sirven como una guía para descubrir elementos arquitectónicos durante el diseño de arquitectura.
 > - Sirven como un rol de validación e ilustración después de completar el diseño de arquitectura, en el papel y como punto de partido de las pruebas de un prototipo de la arquitectura.
 
-![](Pasted%20image%2020241210131930.png)
+![[Pasted image 20241210131930.png]]
 
 

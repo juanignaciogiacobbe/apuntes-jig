@@ -1,6 +1,6 @@
 # Diseño de Código
 
-![](Pasted%20image%2020240925150417.png)
+![[Pasted image 20240925150417.png]]
 
 
 

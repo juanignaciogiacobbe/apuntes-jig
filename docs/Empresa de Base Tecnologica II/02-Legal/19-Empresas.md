@@ -45,7 +45,7 @@
 > - La figura jurídica societaria(SAS, SA, SRL, Cooperativa, Sociedad de hecho).
 > - Los contratos con clientes y proveedores que voy a firmar(contrato de adhesión, contrato de consumo).
 
-![](Pasted%20image%2020241105082319.png)
+![[Pasted image 20241105082319.png]]
 
 # Qué mirar desde el punto de vista legal en EBT de servicios informáticos
 

@@ -16,4 +16,4 @@
 
 ## Estructura de un Pitch Deck Efectivo
 
-![](Pasted%20image%2020240924225708.png)
+![[Pasted image 20240924225708.png]]

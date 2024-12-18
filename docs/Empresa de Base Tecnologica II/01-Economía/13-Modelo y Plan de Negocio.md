@@ -6,7 +6,7 @@
 !!! warning "Propósito"
 > Ayuda a entender el funcionamiento interno de la empresa y cómo interactúa con clientes, proveedores y competidores.
 
-![](Pasted%20image%2020240924162433.png)
+![[Pasted image 20240924162433.png]]
 
 
 - Visualización clara: Permite ver tu modelo de negocio de un vistazo.
@@ -15,7 +15,7 @@
 - Comunicación efectiva: Facilita la comunicación de tu modelo de negocio a otros.
 - Planificación estratégica: Te ayuda a tomar decisiones estratégicas sobre tu negocio.
 
-![](Pasted%20image%2020241006191201.png)
+![[Pasted image 20241006191201.png]]
 
 ---
 
@@ -34,5 +34,5 @@
 ## Canvas de Propuesta de Valor
 - Herramienta visual que permite definir(o ajustar) tu propuesta de valor por medio de la conexión de las necesidades y deseos del cliente con tu propuesta de valor.
 
-![](Pasted%20image%2020241006191435.png)
-![](Pasted%20image%2020241006191450.png)
+![[Pasted image 20241006191435.png]]
+![[Pasted image 20241006191450.png]]

@@ -6,7 +6,7 @@
 
 ## Proceso Administrativo Clásico
 
-![](Pasted%20image%2020241002161309.png)
+![[Pasted image 20241002161309.png]]
 
 
 

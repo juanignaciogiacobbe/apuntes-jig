@@ -1,15 +1,15 @@
 # Ceremonias SCRUM
 
-![](Pasted%20image%2020240925153137.png)
+![[Pasted image 20240925153137.png]]
 
 
 !!! note "Ceremonias"
 > La agilidad de un equipo se construye sobre prácticas de ingeniería, un enfoque estratégico hacia el desarrollo y el cambio, y una gran colaboración en equipo.
 > Las ceremonias ágiles facilitan la comunicación entre los miembros del equipo y promueven una comprensión compartida de lo que se está construyendo dentro de un sprint.
 
-![](Pasted%20image%2020240925153402.png)
+![[Pasted image 20240925153402.png]]
 
-![](Pasted%20image%2020240925154736.png)
+![[Pasted image 20240925154736.png]]
 
 !!! note "Planning"
 > Involucra a un SCRUM Master, a un Product Owner y al equipo de desarrollo.

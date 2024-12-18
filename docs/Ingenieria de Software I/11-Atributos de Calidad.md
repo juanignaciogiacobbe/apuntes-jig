@@ -3,7 +3,7 @@
 !!! note "Atributo de Calidad"
 > Es una medida o propiedad testeable de un sistema que es usada para indicar cómo el sistema satisface las necesidades de sus stakeholders.
 
-![](Pasted%20image%2020240925161316.png)
+![[Pasted image 20240925161316.png]]
 
 
 
@@ -15,7 +15,7 @@
 > 	- Consensuar una prioridad de atributos de calidad.
 > 	- Diseñar un sistema lo suficientemente bueno para los interesados.
 
-![](Pasted%20image%2020240925161501.png)
+![[Pasted image 20240925161501.png]]
 
 
 

@@ -5,7 +5,7 @@
 > - Describe los elementos clave que son cruciales para el éxito de tu negocio, y al exponer estos elementos en un documento escrito, se obtiene una visión exhaustiva de una idea de negocio.
 > - Proporciona a los inversores potenciales una idea clara de por qué deberían apoyar un negocio.
 
-![](Pasted%20image%2020241004171325.png)
+![[Pasted image 20241004171325.png]]
 
 
 

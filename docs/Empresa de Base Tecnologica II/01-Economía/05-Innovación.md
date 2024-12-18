@@ -2,7 +2,7 @@
 - **Visión de Capacidad de Innovación de la Empresa**: Como proceso por el que se transforma una idea en un producto o servicio novedoso en el mercado, o por el que se incorpora un novedoso proceso de fabricación o nuevos métodos de organización o de comercialización en la empresa.
 - **Visión de I + D + i**: Como la actividad por la cual resultados derivados de la investigación y el desarrollo(conocimientos, prototipos) son lanzados hacia el mercado en forma de nuevos productos, servicios o bien son transformados en nuevos procesos en la empresa.
 
-	![](Pasted%20image%2020240924231506.png)
+	![[Pasted image 20240924231506.png]]
 
 ## Modelo de Innovación Abierta
 
@@ -10,11 +10,11 @@
 > Implica que las ideas valiosas pueden provenir tanto de dentro como fuera de la compañía, y pueden salir al mercado también desde dentro o fuera de la compañía.
 
 
-![](Pasted%20image%2020240924231740.png)
+![[Pasted image 20240924231740.png]]
 
 - Este modelo no se opone a la Innovación Cerrada -> La complementa.
 
-![](Pasted%20image%2020240924231850.png)
+![[Pasted image 20240924231850.png]]
 
 
 

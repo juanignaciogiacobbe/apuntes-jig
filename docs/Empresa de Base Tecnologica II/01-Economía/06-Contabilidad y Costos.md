@@ -5,7 +5,7 @@
 > Es un indicador que expresa cuántas unidades de una divisa se necesitan para obtener una unidad de la otra.
 > El nacimiento de un sistema de tipos de cambio proviene de la existencia de [[07-Comercio Internacional]] entre distintos países que poseen distintas monedas.
 
-![](Pasted%20image%2020240928133856.png)
+![[Pasted image 20240928133856.png]]
 
 
 !!! note "Operational Expenditures(OPEX)"

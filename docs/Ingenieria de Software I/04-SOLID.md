@@ -5,7 +5,7 @@
 > - In this context, we define a responsibility to be “a reason for change.”
 > - If a class has more then one responsibility, then the responsibilities become coupled.
 
-![](Pasted%20image%2020240925152028.png)
+![[Pasted image 20240925152028.png]]
 
 
 !!! note "Open-Closed Principle"
@@ -20,7 +20,7 @@
 > 2. No Global Variables.
 > 3. Runtime type identification is dangerous.
 
-![](Pasted%20image%2020240925152349.png)
+![[Pasted image 20240925152349.png]]
 
 
 
