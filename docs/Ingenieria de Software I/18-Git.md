@@ -1,3 +1,4 @@
+# Git
 
 !!! note "Git"
 > Sistema de control de versiones distribuido y descentralizado. Nos permite manejar versiones de un proyecto en secuencia y en paralelo.

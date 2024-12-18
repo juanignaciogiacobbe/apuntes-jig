@@ -4,7 +4,6 @@
 - [[03-Diseño de Codigo]]
 - [[04-SOLID]]
 - [[05-Ceremonias SCRUM]]
-- [[06-Product Discovery]]
 - [[07-Historias de Usuario]]
 - [[08-UML]]
 - [[09-Modelo de Vistas de Arquitectura 4 + 1]]
