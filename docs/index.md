@@ -1,3 +1,3 @@
-# Holaaaaa
+# JIG Apuntes
 
-[[docs/Programacion Concurrente/index|Programación Concurrente]]
+[[Programacion Concurrente/index|Programación Concurrente]]
