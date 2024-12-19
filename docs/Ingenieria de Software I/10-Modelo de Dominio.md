@@ -7,7 +7,7 @@
 > - Eventos pasados o futuros.
 > - Personas, roles, organizaciones.
 > 
-> Es un modelo conceptual descrito mediante un diagrama de clases [[08-UML]].
+> Es un modelo conceptual descrito mediante un diagrama de clases [[Ingenieria de Software I/08-UML|UML]].
 > Es el punto de partida para el diseño del software y de la base de datos.
 
 

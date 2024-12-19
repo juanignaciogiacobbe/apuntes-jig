@@ -16,7 +16,7 @@
 
 
 !!! warning "Algunos conceptos importantes"
-- **Container**: Grupo aislado de [[Proceso]].
+- **Container**: Grupo aislado de [[Sistemas Operativos/Proceso|procesos]].
 - **Image**: Template usado para crear containers.
 - **Dockerfile**: Archivo con instrucciones para construir una imagen.
 - **Mounts**: Acceso a directorios del host.

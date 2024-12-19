@@ -14,7 +14,7 @@
 !!! note "Planning"
 > Involucra a un SCRUM Master, a un Product Owner y al equipo de desarrollo.
 > Se planifica la Capacidad del Equipo para decidir el tiempo dedicado al Sprint, junto al objetivo.
-> Se agregan las [[07-Historias de Usuario]] al sprint backlog en base a un acuerdo colectivo del equipo.
+> Se agregan las [[Ingenieria de Software I/07-Historias de Usuario|Historias de Usuario]] al sprint backlog en base a un acuerdo colectivo del equipo.
 > El resultado es un objetivo del sprint, y un sprint backlog sobre el cual trabajar durante el mismo.
 
 

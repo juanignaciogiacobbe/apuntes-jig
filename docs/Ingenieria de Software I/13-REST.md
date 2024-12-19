@@ -11,7 +11,7 @@
 - Expone recursos(URIs)
 - Usa explícitamente los verbos HTTP.
 - Navegable.
-- [[14-REST-Security]]
+- [[Ingenieria de Software I/14-REST-Security|REST-Security]]
 
 
 !!! warning "Stateless"

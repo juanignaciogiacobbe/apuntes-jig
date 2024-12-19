@@ -5,11 +5,13 @@
 
 
 !!! warning "Funciones de los Presupuestos"
-> - **Control Financiero** de la organización.
-> - Desempeña **roles preventivos como correctivos** dentro de la organización.
-> - Ayudan a **minimizar el riesgo** en las operaciones.
-> - Se mantiene el plan de operaciones de la empresa en unos límites razonables.
-> - Sirven como **mecanismo para la revisión de políticas y estrategias** de la empresa y dirigirlas hacia los objetivos estratégicos.
+> 
+
+- **Control Financiero** de la organización.
+ - Desempeña **roles preventivos como correctivos** dentro de la organización.
+ - Ayudan a **minimizar el riesgo** en las operaciones.
+ - Se mantiene el plan de operaciones de la empresa en unos límites razonables.
+ - Sirven como **mecanismo para la revisión de políticas y estrategias** de la empresa y dirigirlas hacia los objetivos estratégicos.
 
 ## Tipos de Presupuestos
 - Según el tiempo:

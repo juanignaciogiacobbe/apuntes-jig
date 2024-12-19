@@ -19,7 +19,7 @@
 
 ---
 
-# [[18-Plan de Negocios]]
+# [[Empresa de Base Tecnologica II/01-Economía/18-Plan de Negocios|Plan de Negocios]]
 - Es un documento detallado que describe los objetivos de una empresa, las estrategias para alcanzarlos, la estructura organizacional, el mercado, las proyecciones financieras y las necesidades de financiamiento.
 - Se enfoca en "cuándo" y el "dónde" de la implementación estratégica y operativa. 
 

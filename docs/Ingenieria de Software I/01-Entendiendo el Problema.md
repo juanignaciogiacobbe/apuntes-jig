@@ -9,6 +9,6 @@
 3. Establecer Objetivos.
 4. Tratar de definir alguna métrica que indique que se resuelve dicho punto de dolor o cumple con el objetivo.
 
-> [!IMPORTANTE] Product Discovery
+!!! note "Product Discovery"
 > Es importante entender el problema, ya que nos permite poder seleccionar qué es más importante o valioso para los usuarios.
-> [[06-Product Discovery]]
+> [[Ingenieria de Software I/06-Product Discovery|Product Discovery]]

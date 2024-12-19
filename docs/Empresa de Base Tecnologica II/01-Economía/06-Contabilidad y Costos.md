@@ -3,7 +3,7 @@
 !!! note "Tipo de Cambio"
 > Es la tasa o relación de proporción que existe entre el valor de una divisa y otra. 
 > Es un indicador que expresa cuántas unidades de una divisa se necesitan para obtener una unidad de la otra.
-> El nacimiento de un sistema de tipos de cambio proviene de la existencia de [[07-Comercio Internacional]] entre distintos países que poseen distintas monedas.
+> El nacimiento de un sistema de tipos de cambio proviene de la existencia de [[Empresa de Base Tecnologica II/01-Economía/07-Comercio Internacional|Comercio Internacional]] entre distintos países que poseen distintas monedas.
 
 ![[Pasted image 20240928133856.png]]
 

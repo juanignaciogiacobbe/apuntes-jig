@@ -7,7 +7,7 @@
 !!! warning "Cualidades de startups que las diferencian de las PYMEs."
 
 - Juventud: Son empresas recientemente originadas.
-- [[05-Innovación]]: Basan su modelo de negocio en la innovación.
+- [[Empresa de Base Tecnologica II/01-Economía/05-Innovación|Innovación]]: Basan su modelo de negocio en la innovación.
 - Alcance: Suelen tener un enfoque más amplio, generalmente geográfico, incluso global.
 - Escalabilidad: Son negocios que buscan aumentar su magnitud e ingresos en períodos de tiempo cortos, sin que esto conlleve un aumento de sus gastos.
 - Costos reducidos: No requieren un elevado coste de recursos para ponerse en marcha ni desarrollar su actividad. Esto les permite crecer más rápidamente y aumentar su margen de beneficios.

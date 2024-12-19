@@ -8,7 +8,7 @@
 > 1. Para manejar el cambio.
 > 2. Para tener un delivery rápido.
 > 3. Para lidiar con la complejidad.
-> Siguiendo los principios [[04-SOLID]] se puede lograr un buen diseño.
+> Siguiendo los principios [[Ingenieria de Software I/04-SOLID|SOLID]] se puede lograr un buen diseño.
 
 ## Buenas Prácticas
 - Nombres significativos y pronunciables.

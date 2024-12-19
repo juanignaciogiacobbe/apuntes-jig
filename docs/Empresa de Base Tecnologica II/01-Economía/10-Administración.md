@@ -11,8 +11,9 @@
 
 
 !!! note "Planificación"
-> Proceso que comienza con la **vision** que tiene la persona que dirige a una organización -> La **misión** de la organización -> Fijar **objetivos**, las **estrategias** y **políticas organizacionales**, usando como herramienta el mapa estratégico -> Todo esto teniendo en cuenta el [[01-Análisis del Contexto]] de la misma.
-> - Identificación de recursos necesarios, asignación de tareas, elaboración de estrategias, y formulación de planes para lograr los objetivos establecidos.
+> Proceso que comienza con la **vision** que tiene la persona que dirige a una organización -> La **misión** de la organización -> Fijar **objetivos**, las **estrategias** y **políticas organizacionales**, usando como herramienta el mapa estratégico -> Todo esto teniendo en cuenta el [[Empresa de Base Tecnologica II/01-Economía/01-Análisis del Contexto|contexto]] de la misma.
+
+ - Identificación de recursos necesarios, asignación de tareas, elaboración de estrategias, y formulación de planes para lograr los objetivos establecidos.
 
 
 !!! note "Organización"

@@ -17,7 +17,7 @@
 
 !!! note "Análisis Competitivo y Estratégico"
 > Ofrece una visión general del sector del que forma parte. Presenta una descripción de la empresa y en qué se diferencia de otras empresas del sector. 
-> En general se suele acompañar de una [[04-Matriz FODA]] seguido de un mapa competitivo con los principales competidores, productos sustitutos, barreras de entrada y de salida.
+> En general se suele acompañar de un [[Empresa de Base Tecnologica II/01-Economía/04-Matriz FODA|análisis FODA]] seguido de un mapa competitivo con los principales competidores, productos sustitutos, barreras de entrada y de salida.
 
 
 !!! note "Oportunidad Detectada/ Propuesta de Valor"
