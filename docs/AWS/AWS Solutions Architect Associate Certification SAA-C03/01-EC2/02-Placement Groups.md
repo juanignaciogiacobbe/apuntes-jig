@@ -1,7 +1,7 @@
 # Placement Groups
-- It lets you define your [[AWS/Cloud Practitioner CLF-C02/02-Compute in the Cloud/01-Amazon Elastic Compute Cloud EC2|EC2]] instance placement strategy.
+- It lets you define your [[01-Amazon Elastic Compute Cloud EC2|EC2]] instance placement strategy.
 - When you create a placement group, you specify one of the following strategies for the group:
-	- **Cluster**: Clusters instances into a low-latency group in a single [[AWS/Cloud Practitioner CLF-C02/03-Infrastructure and Realiability/02-Availability Zones|Availability Zone]].
+	- **Cluster**: Clusters instances into a low-latency group in a single [[02-Availability Zones|Availability Zone]].
 		![[AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241104152537.png]]
 		- It enhances networking. -> Great performance for any kind of computational job.
 		- If the AZ fails, all instances fails at the same time.

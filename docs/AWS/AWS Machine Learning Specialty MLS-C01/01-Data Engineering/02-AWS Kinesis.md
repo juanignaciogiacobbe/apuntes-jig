@@ -4,7 +4,7 @@
 > - Great for application logs, metrics, IoT, clickstreams.
 > - Great for "real-time" big data.
 > - Great for streaming processing frameworks.
-> - Data is automatically replicated synchronously to 3 [[AWS/Cloud Practitioner CLF-C02/03-Infrastructure and Realiability/02-Availability Zones|AZ]].
+> - Data is automatically replicated synchronously to 3 [[02-Availability Zones|AZ]].
 
 ![[AWS/AWS Machine Learning Specialty MLS-C01/img/Pasted image 20241204101111.png]]
 
@@ -76,11 +76,11 @@
 !!! note "Kinesis Firehose"
 > - Fully managed service, no administration.
 > - Near Real Time(Buffer based on time and size, optionally can be disabled).
-> - Data Ingestion into Redshift/ [[AWS/Cloud Practitioner CLF-C02/05-Storage and Databases/01-Amazon Simple Storage Service S3|Amazon S3]], ElasticSearch / Splunk.
+> - Data Ingestion into Redshift/ [[01-Amazon Simple Storage Service S3|Amazon S3]], ElasticSearch / Splunk.
 > - Automatic scaling.
 > - Supports many data formats.
 > - Data Conversions from CSV/ JSON to Parquet / ORC(only for S3).
-> - Data Transformation through [[AWS/Cloud Practitioner CLF-C02/02-Compute in the Cloud/06-AWS Lambda|AWS Lambda]].
+> - Data Transformation through [[06-AWS Lambda|AWS Lambda]].
 > - Supports compression when target is Amazon S3(GZIP, ZIP and SNAPPY).
 > - Pay for the amount of data going through Firehose.
 

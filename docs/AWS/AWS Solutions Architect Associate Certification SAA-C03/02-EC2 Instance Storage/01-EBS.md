@@ -2,14 +2,14 @@
 > - A network drive you can attach to your instances while they run. -> It uses the network to communicate to the instance, which means there might be a bit of [[Redes/Chapter 1/03-Delay, Loss and Throughput|latency]].
 > - It allows your instances to persist data, even after their termination.
 > - They can only be mounted to one instance at a time.
-> - They are bound to a specific [[AWS/Cloud Practitioner CLF-C02/03-Infrastructure and Realiability/02-Availability Zones|Availability Zone]].
+> - They are bound to a specific [[02-Availability Zones|Availability Zone]].
 > - Have a provisioned capacity -> You get billed for all the provisioned capacity, and you can increase the capacity of the drive over time.
 
 
 ![[AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241105084929.png]]
 
 # Delete on Termination attribute
-- Controls the EBS behaviour when a [[AWS/Cloud Practitioner CLF-C02/02-Compute in the Cloud/01-Amazon Elastic Compute Cloud EC2|EC2]] instance terminates.
+- Controls the EBS behaviour when a [[01-Amazon Elastic Compute Cloud EC2|EC2]] instance terminates.
 	- By default, the root EBS volume is deleted(attribute enabled).
 	- By default, any other attached EBS volume is not deleted(attribute disabled).
 - This can be controlled by the AWS console/ AWS CLI.

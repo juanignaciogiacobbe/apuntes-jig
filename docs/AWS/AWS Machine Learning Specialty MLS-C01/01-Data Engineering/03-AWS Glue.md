@@ -11,7 +11,7 @@
 !!! note "Glue Data Catalog Crawlers"
 > Crawlers goes through your data to infer schemas and partitions.
 > - Works JSON, Parquet, CSV, relational store.
-> - Crawlers work for [[AWS/Cloud Practitioner CLF-C02/05-Storage and Databases/01-Amazon Simple Storage Service S3|S3]], Redshift, [[AWS/Cloud Practitioner CLF-C02/05-Storage and Databases/02-Amazon Relational Database Service RDS|Amazon RDS]].
+> - Crawlers work for [[01-Amazon Simple Storage Service S3|S3]], Redshift, [[02-Amazon Relational Database Service RDS|Amazon RDS]].
 > - Need an IAM role/ credentials to access the data stores.
 
 
@@ -26,7 +26,7 @@
 > - Transform data, Clean Data, Enrich Data(before doing analysis).
 > 	- Generate ETL code in Python or Scala, you can modify the code.
 > 	- Can provide your own Spark or PySpark scripts.
-> 	- Target can be S3, JDBC([[AWS/Cloud Practitioner CLF-C02/05-Storage and Databases/02-Amazon Relational Database Service RDS|RDS]], Redshift), or in Glue Data Catalog.
+> 	- Target can be S3, JDBC([[02-Amazon Relational Database Service RDS|RDS]], Redshift), or in Glue Data Catalog.
 > - Fully managed, cost effective, pay only for the resources consumed.
 > - Jobs are run on a serverless Spark platform.
 > - Glue Scheduler to schedule the jobs.
@@ -47,6 +47,6 @@
 !!! note "AWS Glue DataBrew"
 > - Allows you to clean and normalize data without writing any code.
 > - Reduce ML and analytics data preparation time by up to 80%.
-> - Data sources include [[AWS/Cloud Practitioner CLF-C02/05-Storage and Databases/01-Amazon Simple Storage Service S3|S3]], Redshift, [[AWS/AWS Solutions Architect Associate Certification SAA-C03/03-RDS, Aurora & ElastiCache/03-Amazon Aurora|Aurora]], Glue Data Catalog, ...
+> - Data sources include [[01-Amazon Simple Storage Service S3|S3]], Redshift, [[AWS/AWS Solutions Architect Associate Certification SAA-C03/03-RDS, Aurora & ElastiCache/03-Amazon Aurora|Aurora]], Glue Data Catalog, ...
 > - +250 ready-made transformations to automate tasks:
 > 	- Filtering anomalies, data conversion, correct invalid values, ...

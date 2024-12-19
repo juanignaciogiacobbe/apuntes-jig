@@ -1,5 +1,5 @@
 
-> [[AWS/Cloud Practitioner CLF-C02/05-Storage and Databases/01-Amazon Simple Storage Service S3|!IMPORTANT]] Event Notifications
+> [[01-Amazon Simple Storage Service S3|!IMPORTANT]] Event Notifications
 > Typically deliver events in seconds but can sometimes take a minute or longer.
 
 ![[AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241203104427.png]]

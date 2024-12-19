@@ -9,11 +9,11 @@
 
 
 !!! note "High Availability"
-> Running your application/system in at least 2 Data Centers(== [[AWS/Cloud Practitioner CLF-C02/03-Infrastructure and Realiability/02-Availability Zones|Availability Zones]]).
+> Running your application/system in at least 2 Data Centers(== [[02-Availability Zones|Availability Zones]]).
 > - It's goal is to survive a data center loss.
 
 
-> [[AWS/Cloud Practitioner CLF-C02/02-Compute in the Cloud/01-Amazon Elastic Compute Cloud EC2|!IMPORTANT]] Auto Scaling
+> [[01-Amazon Elastic Compute Cloud EC2|!IMPORTANT]] Auto Scaling
 > - Enables you to automatically add or remove Amazon EC2 instances in response to changing application demand. -> You can maintain a greater sense of application availability.
 
 
@@ -36,7 +36,7 @@
 	- SSH Key Pair.
 	- IAM Roles for the EC2 instances.
 	- Network + Subnets Information.
-	- [[AWS/Cloud Practitioner CLF-C02/02-Compute in the Cloud/02-Elastic Load Balancing ELB|Load Balancer]] Information.
+	- [[02-Elastic Load Balancing ELB|Load Balancer]] Information.
 - Min Size / Max Size / Initial Capacity.
 - Scaling Policies.
 

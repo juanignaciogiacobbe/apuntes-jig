@@ -1,5 +1,5 @@
 
-> [[AWS/Cloud Practitioner CLF-C02/05-Storage and Databases/01-Amazon Simple Storage Service S3|!WARNING]] Security
+> [[01-Amazon Simple Storage Service S3|!WARNING]] Security
 - User-Based:
 	- IAM Policies: Which API calls should be allowed for a specific user from IAM.
 - Resource-Based:

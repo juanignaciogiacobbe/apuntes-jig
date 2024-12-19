@@ -1,6 +1,6 @@
 # Amazon Aurora
 - **Helps to reduce your database costs by reducing unnecessary input/output (I/O) operations,** while ensuring that your database resources remain reliable and available.
-- **Consider Amazon Aurora if your workloads require high availability**. It replicates six copies of your data across three Availability Zones and continuously backs up your data to [[AWS/Cloud Practitioner CLF-C02/05-Storage and Databases/01-Amazon Simple Storage Service S3]].
+- **Consider Amazon Aurora if your workloads require high availability**. It replicates six copies of your data across three Availability Zones and continuously backs up your data to [[01-Amazon Simple Storage Service S3]].
 
 
 !!! note "Amazon Aurora"

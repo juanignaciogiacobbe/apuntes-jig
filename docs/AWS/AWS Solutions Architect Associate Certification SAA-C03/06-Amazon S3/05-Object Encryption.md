@@ -1,4 +1,4 @@
-# [[AWS/Cloud Practitioner CLF-C02/05-Storage and Databases/01-Amazon Simple Storage Service S3|Amazon S3]] Object Encryption
+# [[01-Amazon Simple Storage Service S3|Amazon S3]] Object Encryption
 - You can encrypt objects in S3 buckets using one of 4 methods:
 	- Server-Side Encryption(SSE):
 		- Server-Side Encryption with Amazon S3-Managed Keys (SSE-S3) – Enabled by Default 

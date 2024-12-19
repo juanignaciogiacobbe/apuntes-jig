@@ -1,6 +1,6 @@
 
 !!! note "AWS Data Pipeline"
-> - Destinations include [[AWS/Cloud Practitioner CLF-C02/05-Storage and Databases/01-Amazon Simple Storage Service S3|S3]], [[AWS/Cloud Practitioner CLF-C02/05-Storage and Databases/02-Amazon Relational Database Service RDS|RDS]], DynamoDB, Redshift and EMR.
+> - Destinations include [[01-Amazon Simple Storage Service S3|S3]], [[02-Amazon Relational Database Service RDS|RDS]], DynamoDB, Redshift and EMR.
 > - Manages task dependencies.
 > - Retries and notifies on failures.
 > - Data sources may be on-premises.
@@ -16,4 +16,4 @@
 - Data Pipeline:
 	- Orchestation service.
 	- More control over the environment, compute resources that run code, & code.
-	- Allows access to [[AWS/Cloud Practitioner CLF-C02/02-Compute in the Cloud/01-Amazon Elastic Compute Cloud EC2|EC2]] or EMR instances(creates resources in your own account).
+	- Allows access to [[01-Amazon Elastic Compute Cloud EC2|EC2]] or EMR instances(creates resources in your own account).

@@ -5,8 +5,8 @@
 > - File storage is **ideal for use cases in which a large number of services and resources need to access the same data at the same time**.
 
 !!! note "Elastic File System(EFS)"
-> - Managed NFS(network file system) that can be mounted on many [[AWS/Cloud Practitioner CLF-C02/02-Compute in the Cloud/01-Amazon Elastic Compute Cloud EC2|EC2]].
-> - Works with EC2 instances in Multi-[[AWS/Cloud Practitioner CLF-C02/03-Infrastructure and Realiability/02-Availability Zones|AZ]].
+> - Managed NFS(network file system) that can be mounted on many [[01-Amazon Elastic Compute Cloud EC2|EC2]].
+> - Works with EC2 instances in Multi-[[02-Availability Zones|AZ]].
 > - Highly available, scalable, expensive, pay per use.
 > - Uses NFSv4.1 protocol.
 > - Uses security group to control access to EFS.
