@@ -10,10 +10,11 @@
 
 !!! note "Aduana"
 > Es un organismo administrativo encargado de la aplicación de la legislación relativa a la importación y exportación de mercaderías y servicios.
-> - Controla el tráfico de mercaderías.
-> - Fiscaliza prohibiciones IMPO - EXPO.
-> - Tributación.
-> - Habilita lugares y horarios.
+
+ - Controla el tráfico de mercaderías.
+ - Fiscaliza prohibiciones IMPO - EXPO.
+ - Tributación.
+ - Habilita lugares y horarios.
 
 ### Delitos Aduaneros
 

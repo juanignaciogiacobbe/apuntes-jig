@@ -1,3 +1,4 @@
+# Cloud Computing
 
 !!! note "Cloud Computing"
 > - The on-demand delivery of IT resources over the [[Redes/Chapter 1/01-Internet|Internet]] with pay-as-you-go(Pay by the hour or the second for only what you use) pricing.

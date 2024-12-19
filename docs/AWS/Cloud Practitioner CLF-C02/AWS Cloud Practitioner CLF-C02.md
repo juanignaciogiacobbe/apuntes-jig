@@ -12,7 +12,9 @@
 # AWS Cloud Practitioner(CLF-C02)
 
 ## Module 1: Introduction to AWS
+- [[01-Cloud Computing|01-Cloud Computing]]
 - [[AWS/Cloud Practitioner CLF-C02/01-Introduction to AWS/01-Cloud Computing|01-Cloud Computing]]
+- [[AWS/Cloud Practitioner CLF-C02/01-Introduction to AWS/01-Cloud Computing|Cloud Computing]]
 - [[AWS/Cloud Practitioner CLF-C02/01-Introduction to AWS/02-Advantages of Cloud Computing|02-Advantages of Cloud Computing]]
 - [[AWS/Cloud Practitioner CLF-C02/01-Introduction to AWS/03-Cloud Deployment Models|03-Cloud Deployment Models]]
 
