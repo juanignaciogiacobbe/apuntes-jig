@@ -1,14 +1,3 @@
-# Foundations on Cloud Computing
-
-- [[Module 4 - Networking|Module 4: Networking]]
-- [[Module 5 - Storage and Databases|Module 5: Storage and Databases]]
-- [[Module 6 - Security|Module 6: Security]]
-- [[Module 7 - Monitoring and Analytics|Module 7: Monitoring and Analytics]]
-- [[Module 8 - Pricing and Support|Module 8: Pricing and Support]]
-- [[Module 9 - Migration and Innovation]]
-- [[Module 10 - The Cloud Journey]]
-
-
 # AWS Cloud Practitioner(CLF-C02)
 
 ## Module 1: Introduction to AWS
@@ -37,3 +26,11 @@
 ## Module 5: Storage and Databases
 - [[01-Amazon Simple Storage Service S3|01-Amazon Simple Storage Service S3]]
 - [[02-Amazon Relational Database Service RDS|02-Amazon Relational Database Service RDS]]
+
+- [[Module 4 - Networking|Module 4: Networking]]
+- [[Module 5 - Storage and Databases|Module 5: Storage and Databases]]
+- [[Module 6 - Security|Module 6: Security]]
+- [[Module 7 - Monitoring and Analytics|Module 7: Monitoring and Analytics]]
+- [[Module 8 - Pricing and Support|Module 8: Pricing and Support]]
+- [[Module 9 - Migration and Innovation]]
+- [[Module 10 - The Cloud Journey]]

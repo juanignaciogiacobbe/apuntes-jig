@@ -1,4 +1,5 @@
-# Lean [[17-Startups]]
+# Lean Startup
+- Referencia: [[Empresa de Base Tecnologica II/01-Economía/17-Startups|Startup]]
 - Es un enfoque moderno para lanzar y escalar startups bajo condiciones de incertidumbre.
 - Es una metodología que te permite:
 	- Aprender rápidamente: A través de la experimentación y el feedback de los clientes, puedes validar tus hipótesis y adaptar tu producto o servicio a las necesidades reales del mercado.
