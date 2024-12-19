@@ -6,6 +6,7 @@
 > - Un entero no negativo llamado *V*.
 > - Un set de procesos llamado *L*.
 
+
  ## Inicialización de semáforos
  - Se inicializan con un valor $k \geq 0$ y con el conjunto vacío $\emptyset$.
  - Se definen dos operaciones atómicas sobre un semáforo S:

@@ -17,6 +17,7 @@
 3. [[03-Cloud Deployment Models|Cloud Deployment Models]]
 
 ## Module 2: Compute in the Cloud
+1. [[AWS/AWS Cloud Practitioner CLF-C02/02-Compute in the Cloud/01-Amazon Elastic Compute Cloud EC2|01-Amazon Elastic Compute Cloud(EC2)]]
 - [[01-Amazon Elastic Compute Cloud EC2|01-Amazon Elastic Compute Cloud EC2]]
 - [[02-Elastic Load Balancing ELB|02-Elastic Load Balancing ELB]]
 - [[03-Messaging and Queuing|03-Messaging and Queuing]]
