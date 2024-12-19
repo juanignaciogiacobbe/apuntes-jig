@@ -1,8 +1,10 @@
+# Elastic Block Store(EBS)
+
 !!! note "Elastic Block Store(EBS) Volume"
-> - A network drive you can attach to your instances while they run. -> It uses the network to communicate to the instance, which means there might be a bit of [[Redes/Chapter 1/03-Delay, Loss and Throughput|latency]].
+> - A network drive you can attach to your instances while they run. -> It uses the network to communicate to the instance, which means there might be a bit of latency.
 > - It allows your instances to persist data, even after their termination.
 > - They can only be mounted to one instance at a time.
-> - They are bound to a specific [[02-Availability Zones|Availability Zone]].
+> - They are bound to a specific [[AWS/AWS Cloud Practitioner CLF-C02/03-Infrastructure and Realiability/02-Availability Zones|Availability Zone]].
 > - Have a provisioned capacity -> You get billed for all the provisioned capacity, and you can increase the capacity of the drive over time.
 
 

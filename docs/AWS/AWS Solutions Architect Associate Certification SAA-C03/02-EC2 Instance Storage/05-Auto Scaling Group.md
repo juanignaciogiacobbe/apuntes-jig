@@ -1,7 +1,8 @@
+# Auto Scaling Groups
 
 !!! note "Scalability"
 > Involves beginning with only the resources you need and designing your architecture to automatically respond to changing demand by scaling out or in. 
-> - You don’t have to worry about a lack of computing capacity to meet your customers’ needs.
+> You don’t have to worry about a lack of computing capacity to meet your customers’ needs.
 
 !!! warning "Kinds of Scalability"
 > - Vertical Scalability -> Increasing the size of the instance. There's usually a limit to how much you can vertically scale(hardware limit).
@@ -9,12 +10,11 @@
 
 
 !!! note "High Availability"
-> Running your application/system in at least 2 Data Centers(== [[02-Availability Zones|Availability Zones]]).
-> - It's goal is to survive a data center loss.
+> Running your application/system in at least 2 Data Centers(== [[AWS/AWS Cloud Practitioner CLF-C02/03-Infrastructure and Realiability/02-Availability Zones|Availability Zones]]) -> It's goal is to survive a data center loss.
 
 
-> [[01-Amazon Elastic Compute Cloud EC2|!IMPORTANT]] Auto Scaling
-> - Enables you to automatically add or remove Amazon EC2 instances in response to changing application demand. -> You can maintain a greater sense of application availability.
+!!! note "Auto Scaling"
+> Enables you to automatically add or remove Amazon EC2 instances in response to changing application demand. -> You can maintain a greater sense of application availability.
 
 
 !!! note "Auto Scaling Group"

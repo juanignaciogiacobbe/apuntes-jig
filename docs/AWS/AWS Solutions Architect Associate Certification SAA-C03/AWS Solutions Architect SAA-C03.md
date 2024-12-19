@@ -1,17 +1,17 @@
 # AWS Solutions Architect Associate Certification SAA-C03
 
 ## Module 1: Amazon EC2 - Associate
-- [[AWS/AWS Solutions Architect Associate Certification SAA-C03/01-EC2/01-Private VS Public VS Elastic IP]]
-- [[AWS/AWS Solutions Architect Associate Certification SAA-C03/01-EC2/02-Placement Groups]]
-- [[AWS/AWS Solutions Architect Associate Certification SAA-C03/01-EC2/03-Elastic Network Interfaces ENI]]
-- [[AWS/AWS Solutions Architect Associate Certification SAA-C03/01-EC2/04-EC2 Hibernate]]
+1. [[AWS/AWS Solutions Architect Associate Certification SAA-C03/01-EC2/01-Private VS Public VS Elastic IP|Private VS Public VS Elastic IP]]
+2. [[AWS/AWS Solutions Architect Associate Certification SAA-C03/01-EC2/02-Placement Groups|Placement Groups]]
+3. [[AWS/AWS Solutions Architect Associate Certification SAA-C03/01-EC2/03-Elastic Network Interfaces ENI|Elastic Network Interfaces (ENI))]]
+4. [[AWS/AWS Solutions Architect Associate Certification SAA-C03/01-EC2/04-EC2 Hibernate|EC2 Hibernate]]
 
 ## Module 2: EC2 Instance Storage
-- [[AWS/AWS Solutions Architect Associate Certification SAA-C03/02-EC2 Instance Storage/01-EBS]]
-- [[AWS/AWS Solutions Architect Associate Certification SAA-C03/02-EC2 Instance Storage/02-AMI]]
-- [[AWS/AWS Solutions Architect Associate Certification SAA-C03/02-EC2 Instance Storage/03-EC2 Instance Store]]
-- [[AWS/AWS Solutions Architect Associate Certification SAA-C03/02-EC2 Instance Storage/04-Amazon EFS]]
-- [[AWS/AWS Solutions Architect Associate Certification SAA-C03/02-EC2 Instance Storage/05-Auto Scaling Group]]
+1. [[AWS/AWS Solutions Architect Associate Certification SAA-C03/02-EC2 Instance Storage/01-EBS|EBS]]
+2. [[AWS/AWS Solutions Architect Associate Certification SAA-C03/02-EC2 Instance Storage/02-AMI|AMI]]
+3. [[AWS/AWS Solutions Architect Associate Certification SAA-C03/02-EC2 Instance Storage/03-EC2 Instance Store|EC2 Instance Store]]
+4. [[AWS/AWS Solutions Architect Associate Certification SAA-C03/02-EC2 Instance Storage/04-Amazon EFS|Amazon EFS]]
+5. [[AWS/AWS Solutions Architect Associate Certification SAA-C03/02-EC2 Instance Storage/05-Auto Scaling Group|Auto Scaling Group]]
 
 ## Module 3: RDS, Aurora & ElastiCache
 - [[AWS/AWS Solutions Architect Associate Certification SAA-C03/03-RDS, Aurora & ElastiCache/01-RDS Read Replicas]]
