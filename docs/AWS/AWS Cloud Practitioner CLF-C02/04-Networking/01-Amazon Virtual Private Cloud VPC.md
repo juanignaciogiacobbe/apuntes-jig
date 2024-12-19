@@ -1,7 +1,7 @@
 # Amazon Virtual Private Cloud(Amazon VPC)
 - Without boundaries around all of the resources that the clients created, network traffic would be able to flow between them unrestricted.
 - **Amazon VPC enables us to establish boundaries around AWS resources**.
-- **Enables you to provision an isolated section of the AWS Cloud**. In this isolated section, you can launch resources in a virtual network that you define. Within a virtual private cloud (VPC), you can organize your resources into [[02-Subnets]]. 
+- **Enables you to provision an isolated section of the AWS Cloud**. In this isolated section, you can launch resources in a virtual network that you define. Within a virtual private cloud (VPC), you can organize your resources into [[AWS/AWS Cloud Practitioner CLF-C02/04-Networking/02-Subnets|subnets]]. 
 
 ## Internet gateway
 - **Allow public traffic from the internet to access your VPC**.

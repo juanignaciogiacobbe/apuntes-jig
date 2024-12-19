@@ -1,3 +1,4 @@
+# Elastic Load Balancing(ELB)
 
 !!! note "Load Balancers"
 > Servers that forward traffic to multiple servers downstream.
@@ -27,14 +28,16 @@
 ---
 
 !!! note "Directing Traffic with Elastic Load Balancing"
-> Automatically distributes incoming application traffic across multiple resources, such as [[EC2)](AWS/Cloud Practitioner CLF-C02/02-Compute in the Cloud/01-Amazon Elastic Compute Cloud EC2.md|Amazon Elastic Compute Cloud(EC2)]].
-> - A load balancer acts as a single point of contact for all incoming web traffic to your Auto Scaling group.
-> - As you add or remove Amazon EC2 instances in response to the amount of incoming traffic, these requests route to the load balancer first.
+> Automatically distributes incoming application traffic across multiple resources, such as [[AWS/AWS Cloud Practitioner CLF-C02/02-Compute in the Cloud/01-Amazon Elastic Compute Cloud EC2|EC2]] instances.
+
+
+ - A load balancer acts as a single point of contact for all incoming web traffic to your Auto Scaling group.
+ - As you add or remove Amazon EC2 instances in response to the amount of incoming traffic, these requests route to the load balancer first.
 
 > [[AWS/Slides/AWS Certified Solutions Architect Slides v39.pdf#page=128&selection=8,0,8,29&color=yellow]]
 > > Types of load balancer on AWS
-> 
-> 
+ 
+
 
 ![[elastic_load_balancing_example.png]]
 

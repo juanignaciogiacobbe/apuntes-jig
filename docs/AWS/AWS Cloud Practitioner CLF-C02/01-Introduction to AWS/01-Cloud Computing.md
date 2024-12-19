@@ -7,7 +7,8 @@
 
 !!! note "On-Demand Delivery"
 > AWS has the resources you need, when you need them. -> You only pay for what you use(No long-term commitments or upfront payments).
-> - AWS owns and maintains the network-connected hardware required for these applicacion services, while you provision and use what you need via a Web Application.
+
+ - AWS owns and maintains the network-connected hardware required for these applicacion services, while you provision and use what you need via a Web Application.
 
 
 ![[aws-services.png]]

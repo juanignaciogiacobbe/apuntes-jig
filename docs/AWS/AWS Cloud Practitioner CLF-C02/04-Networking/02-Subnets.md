@@ -1,5 +1,5 @@
 # Subnets
-- A **subnet** is a section of a [[01-Amazon Virtual Private Cloud VPC]] that can contain resources such as [[01-Amazon Elastic Compute Cloud EC2]] instances.  
+- A **subnet** is a section of a [[AWS/AWS Cloud Practitioner CLF-C02/04-Networking/01-Amazon Virtual Private Cloud VPC|VPC]] that can contain resources such as [[AWS/AWS Cloud Practitioner CLF-C02/02-Compute in the Cloud/01-Amazon Elastic Compute Cloud EC2|EC2]] instances.  
 - You can group resources based on security or operational needs.
 - **Separate areas that are used to group together resources**: They can communicate with each other.
 

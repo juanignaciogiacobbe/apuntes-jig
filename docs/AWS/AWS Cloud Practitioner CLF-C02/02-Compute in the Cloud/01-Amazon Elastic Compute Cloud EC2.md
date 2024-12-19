@@ -1,3 +1,4 @@
+# Amazon Elastic Compute Cloud(EC2)
 
 !!! note "Amazon Elastic Compute Cloud(EC2)"
 > - Allows you to **rent and manage virtual servers in the Cloud**(Infrastructure as a Service). -> Provides secure, resizable compute capacity in the Cloud.
@@ -6,7 +7,7 @@
 > 	- Pay only for the compute time you use when an instance is running, not when it is stopped or terminated.
 > 	- Save costs by paying only for server capacity that you need or want.
 > 	- Deploy your applications directly to EC2 instances.
-> 	- Use a preconfigured template called an  [[AMI)](AWS/AWS Solutions Architect Associate Certification SAA-C03/02-EC2 Instance Storage/02-AMI.md|Amazon Machine Image(AMI)]] to launch your instance.
+> 	- Use a preconfigured template called an [[AWS/AWS Solutions Architect Associate Certification SAA-C03/02-EC2 Instance Storage/02-AMI|AMI]] to launch your instance.
 > 	- Highly flexible, cost-effective and quick when you compare it to running your own servers on premises in a data center that you own.
 
 
@@ -35,10 +36,11 @@
 - **Storage Optimized**: For Workloads that require high performance for locally stored data.
 
 !!! warning "Naming Convention"
-> Example: `m5.2xlarge`
-> - `m`: Instance class.
-> - `5`: Generation.
-> - `2xlarge`: Size within the instance class.
+
+ Example: `m5.2xlarge`
+ - `m`: Instance class.
+ - `5`: Generation.
+ - `2xlarge`: Size within the instance class.
 
 ---
 
@@ -53,7 +55,7 @@
 - There are suited for steady-state workloads or ones with predictable usage.
 - Billing discount applied to the use of On-Demand Instances in your account.
 - Standard Reserved Instances: Is a good fit if you know the EC2 instance type and size you need for your steady-state applications and in which AWS Region you plan to run them. Require you to state the instance type and size, the platform description(OS) and Tenancy.
-- Convertible Reserved Instances: If you need to run your EC2 instances in different [[02-Availability Zones]] or different instance types, then Convertible Reserved Instances might be right for you.
+- Convertible Reserved Instances: If you need to run your EC2 instances in different [[AWS/AWS Cloud Practitioner CLF-C02/03-Infrastructure and Realiability/02-Availability Zones|Availability Zones]] or different instance types, then Convertible Reserved Instances might be right for you.
 
 ## Instance Saving Plans
 - Reduce your EC2 instance costs when you make an hourly spend commitment to an instance family and Region for a 1-year or 3-year term.
