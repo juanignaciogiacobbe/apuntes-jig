@@ -1,6 +1,11 @@
 # Amazon Aurora
-- **Helps to reduce your database costs by reducing unnecessary input/output (I/O) operations,** while ensuring that your database resources remain reliable and available.
-- **Consider Amazon Aurora if your workloads require high availability**. It replicates six copies of your data across three Availability Zones and continuously backs up your data to [[01-Amazon Simple Storage Service S3]].
+- Helps to reduce your database costs by reducing unnecessary input/output (I/O) operations, while ensuring that your database resources remain reliable and available.
+- **Consider Amazon Aurora if your workloads require high availability**. It replicates six copies of your data across three Availability Zones and continuously backs up your data to [[AWS/AWS Cloud Practitioner CLF-C02/05-Storage and Databases/01-Amazon Simple Storage Service S3|S3]].
+
+
+
+!!! note "Aurora Global Database"
+> Designed for globally distributed applications, allowing a single Amazon Aurora database to span multiple AWS regions. It replicates your data with no impact on database performance, enables fast local reads with low latency in each region, and provides disaster recovery from region-wide outages.
 
 
 !!! note "Amazon Aurora"
@@ -8,8 +13,6 @@
 > - **Up to 5x faster than standard MySQL databases and up to three times faster than standard PostgreSQL databases**.
 > - Failover is instantaneous -> It's High Availability native.
 
-> [[AWS/Slides/AWS Certified Solutions Architect Slides v39.pdf#page=171&selection=8,0,8,41&color=yellow]]
-> > Aurora High Availability and Read Scaling
 
 ![[AWS/AWS Solutions Architect Associate Certification SAA-C03/img/Pasted image 20241202131417.png]]
 

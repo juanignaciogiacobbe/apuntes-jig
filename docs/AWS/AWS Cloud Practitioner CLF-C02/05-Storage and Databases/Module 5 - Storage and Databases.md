@@ -8,7 +8,7 @@
 - [[S3)](AWS/Cloud Practitioner (CLF-C02|16A-Relational Databases]]/05-Storage%20and%20Databases/16A-Relational%20Databases.md)
 - [[02-Amazon Relational Database Service RDS]]
 - [[17A-Nonrelational Databases]]
-- [[17B-Amazon DynamoDB]]
+- [[AWS/AWS Cloud Practitioner CLF-C02/05-Storage and Databases/03-Amazon DynamoDB]]
 - [[18-Amazon Redshift]]
 - [[19-AWS Database Migration Service DMS]]
 - [[20-Additional Database Services]]

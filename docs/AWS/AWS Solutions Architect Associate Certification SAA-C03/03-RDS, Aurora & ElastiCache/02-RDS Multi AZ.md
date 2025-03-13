@@ -1,4 +1,4 @@
-# [[02-Amazon Relational Database Service RDS|RDS]] Multi AZ(Disaster Recovery)
+# [[AWS/AWS Cloud Practitioner CLF-C02/05-Storage and Databases/02-Amazon Relational Database Service RDS|RDS]] Multi AZ(Disaster Recovery)
 - Sync replication.
 - One DNS name - automatic app failover to standby.
 - Increase availability.

@@ -1,5 +1,5 @@
-# [[02-Amazon Relational Database Service RDS|RDS]] Read Replicas
-- Up to 15 Read Replicas within [[02-Availability Zones|AZ]], Cross AZ or Cross Region.
+# [[AWS/AWS Cloud Practitioner CLF-C02/05-Storage and Databases/02-Amazon Relational Database Service RDS|RDS]] Read Replicas
+- Up to 15 Read Replicas within [[AWS/AWS Cloud Practitioner CLF-C02/03-Infrastructure and Realiability/02-Availability Zones|AZ]], Cross AZ or Cross Region.
 - Replication is Async, so reads are eventually consistent.
 - Replicas can be promoted to their own DB.
 - Applications must update the connection string to leverage read replicas.

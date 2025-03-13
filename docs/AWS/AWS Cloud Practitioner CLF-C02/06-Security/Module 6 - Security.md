@@ -8,6 +8,6 @@
 - [[25B-AWS Shield]]
 - [[26-Additional Security Services]]
 - [[26B-Amazon Macie]]
-- [[26C-Amazon GuardDuty]]
+- [[AWS/AWS Cloud Practitioner CLF-C02/06-Security/Amazon GuardDuty]]
 - [[26D-Amazon Inspector]]
 - [[26E-AWS Secrets Manager]]

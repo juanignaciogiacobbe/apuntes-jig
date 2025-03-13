@@ -16,7 +16,7 @@
 
 
 !!! warning "Algunos conceptos importantes"
-- **Container**: Grupo aislado de [[Sistemas Operativos/Proceso|procesos]].
+- **Container**: Grupo aislado de [[Sistemas Operativos/Proceso|procesos]]. -> Apps are packaged in containers that can be run on any OS.
 - **Image**: Template usado para crear containers.
 - **Dockerfile**: Archivo con instrucciones para construir una imagen.
 - **Mounts**: Acceso a directorios del host.
@@ -37,6 +37,8 @@ El ecosistema Docker asume que los contenedores son livianos:
 - Pueden encenderse/apagarse rápidamente.
 
 # Containers VS Virtual Machines
+- Docker is "sort of" a virtualization technology, but not exactly.
+- Resources are shared with the host -> Many containers on one server.
 
 ![[Pasted image 20241126170440.png]]
 

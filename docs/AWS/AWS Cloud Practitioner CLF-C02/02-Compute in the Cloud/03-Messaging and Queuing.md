@@ -25,12 +25,15 @@
 
 
 
-!!! note "Amazon Simple Notification Service(Amazon SNS)"
-> - Is a publish/subscribe service. Using Amazon SNS topics, a publisher publishes messages to subscribers.
+# Amazon Simple Notification Service(SNS)
+- Is a highly available, durable, secure, fully managed pub/sub messaging service that enables you to decouple microservices, distributed systems, and serverless applications.
+- Is a publish/subscribe service. Using Amazon SNS topics, a publisher publishes messages to subscribers.
 
-![[pub_sub_example1.png]]
+![[AWS/AWS Cloud Practitioner CLF-C02/img/Pasted image 20250109091159.png]]
 
-![[pub_sub_example2.png]]
+
+
+---
 
 
 !!! note "Amazon Simple Queue Service(Amazon SQS)"

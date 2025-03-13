@@ -23,23 +23,8 @@
 
 
 !!! note "Edge Locations"
-> - An **edge location** is a site that Amazon CloudFront uses to store cached copies of your content closer to your customers for faster delivery.
+> - An **edge location** is a site that [[AWS/AWS Solutions Architect Associate Certification SAA-C03/07-CloudFront & Global Accelerator/01-Amazon CloudFront|Amazon CloudFront]] uses to store cached copies of your content closer to your customers for faster delivery.
 > - AWS Edge Location caches are physically in the data centers, they are distributed globally to be as close as possible to the end users. 
 > - Edge locations cache content for **fast delivery** to your users. -> Ensure low latency by placing content closer to users.
 > - They are not linked to AWS regions.
 
-
-!!! note "Amazon CloudFront"
-> Content delivery network (CDN) that allows you to store your content at "edge locations" located all around the world, allowing customers to access your content more quickly.
-
- - It alone doesn't ensure high availability.
- - Delivers data and applications globally with low latency.
- - Makes content available globally or restricts it based on location.
- - Speeds up delivery of static and dynamic web content.
-
-
-![[cloudfront.png]]
-![[edge_loc1.png]]
-![[edge_loc2.png]]
-
-![[edge_loc3.png]]

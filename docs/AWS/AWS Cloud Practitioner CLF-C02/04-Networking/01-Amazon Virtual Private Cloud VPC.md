@@ -22,3 +22,17 @@
 - The private connection that AWS Direct Connect provides **helps you to reduce network costs and increase the amount of bandwidth that can travel through your network**.
 
 	![[aws_direct_connect.png]]
+
+---
+
+## VPC Peering
+
+- Privately connect two VPCs using AWS network.
+- Make them behave as if they were in the same network.
+- Must not have overlapping CIDRs.
+- VPC Peering connection is NOT transitive(must be established for each VPC that need to communicate with one another).
+- You must update route tables in each VPC [[AWS/AWS Cloud Practitioner CLF-C02/04-Networking/02-Subnets|Subnets]] to ensure EC2 instances can communicate with each other.
+- You can create VPC Peering connection between VPCs in different AWS accounts/regions. -> You can reference a security group in a peered VPC(work cross account - same region).
+
+
+![[AWS/AWS Cloud Practitioner CLF-C02/img/Pasted image 20250110091814.png]]

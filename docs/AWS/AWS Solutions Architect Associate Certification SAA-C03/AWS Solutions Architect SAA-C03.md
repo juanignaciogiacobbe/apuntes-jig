@@ -14,14 +14,10 @@
 5. [[AWS/AWS Solutions Architect Associate Certification SAA-C03/02-EC2 Instance Storage/05-Auto Scaling Group|Auto Scaling Group]]
 
 ## Module 3: RDS, Aurora & ElastiCache
-- [[AWS/AWS Solutions Architect Associate Certification SAA-C03/03-RDS, Aurora & ElastiCache/01-RDS Read Replicas]]
-- [[AWS/AWS Solutions Architect Associate Certification SAA-C03/03-RDS, Aurora & ElastiCache/02-RDS Multi AZ]]
-- [[AWS/AWS Solutions Architect Associate Certification SAA-C03/03-RDS, Aurora & ElastiCache/03-Amazon Aurora]]
-falta elastic cache
-> [[AWS/Slides/AWS Certified Solutions Architect Slides v39.pdf#page=185&selection=8,0,8,27&color=red]]
-> > Amazon ElastiCache Overview
-> 
-> 
+1. [[AWS/AWS Solutions Architect Associate Certification SAA-C03/03-RDS, Aurora & ElastiCache/01-RDS Read Replicas|RDS Read Replicas]]
+2. [[AWS/AWS Solutions Architect Associate Certification SAA-C03/03-RDS, Aurora & ElastiCache/02-RDS Multi AZ|RDS Multi AZ]]
+3. [[AWS/AWS Solutions Architect Associate Certification SAA-C03/03-RDS, Aurora & ElastiCache/03-Amazon Aurora|Amazon Aurora]]
+4. [[AWS/AWS Solutions Architect Associate Certification SAA-C03/03-RDS, Aurora & ElastiCache/04-Amazon ElastiCache|Amazon ElastiCache]]
 
 
 modulo de route 53
@@ -42,5 +38,17 @@ modulo de route 53
 - falta performance
 > [[AWS/Slides/AWS Certified Solutions Architect Slides v39.pdf#page=299&selection=0,17,8,14&color=red]]
 > > © Stephane Maarek NOT FOR DISTRIBUTION © Stephane Maarek www.datacumulus.com S3 Performance
+
+
+## Module 7: CloudFront & Global Accelerator
+1. [[AWS/AWS Solutions Architect Associate Certification SAA-C03/07-CloudFront & Global Accelerator/01-Amazon CloudFront|Amazon CloudFront]]
+2. [[AWS/AWS Solutions Architect Associate Certification SAA-C03/07-CloudFront & Global Accelerator/02-Global Users for our Application|Global Users for our Application]]
+3. [[AWS/AWS Solutions Architect Associate Certification SAA-C03/07-CloudFront & Global Accelerator/03-AWS Global Accelerator|AWS Global Accelerator]]
+
+
+modulo 8 storage extras
+
+> [!PDF|red] [[AWS/Slides/AWS Certified Solutions Architect Slides v39.pdf#page=347&selection=0,17,8,18&color=red|AWS Certified Solutions Architect Slides v39, p.347]]
+> > © Stephane Maarek NOT FOR DISTRIBUTION © Stephane Maarek www.datacumulus.com AWS Storage Extras
 
 
